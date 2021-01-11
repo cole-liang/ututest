@@ -1,0 +1,4862 @@
+[
+  {
+    "Currency": "tezos",
+    "Date": "Dec 04, 2019",
+    "Open": 1.29,
+    "High": 1.32,
+    "Low": 1.25,
+    "Close": 1.25,
+    "Volume": "46,048,752",
+    "Market Cap": "824,588,509"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Dec 03, 2019",
+    "Open": 1.24,
+    "High": 1.32,
+    "Low": 1.21,
+    "Close": 1.29,
+    "Volume": "41,462,224",
+    "Market Cap": "853,213,342"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Dec 02, 2019",
+    "Open": 1.25,
+    "High": 1.26,
+    "Low": 1.2,
+    "Close": 1.24,
+    "Volume": "27,574,097",
+    "Market Cap": "817,872,179"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Dec 01, 2019",
+    "Open": 1.33,
+    "High": 1.34,
+    "Low": 1.25,
+    "Close": 1.25,
+    "Volume": "24,127,567",
+    "Market Cap": "828,296,390"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 30, 2019",
+    "Open": 1.31,
+    "High": 1.37,
+    "Low": 1.31,
+    "Close": 1.33,
+    "Volume": "28,706,667",
+    "Market Cap": "879,181,680"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 29, 2019",
+    "Open": 1.28,
+    "High": 1.34,
+    "Low": 1.28,
+    "Close": 1.31,
+    "Volume": "32,270,224",
+    "Market Cap": "867,085,098"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 28, 2019",
+    "Open": 1.26,
+    "High": 1.35,
+    "Low": 1.22,
+    "Close": 1.28,
+    "Volume": "44,240,281",
+    "Market Cap": "845,073,679"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 27, 2019",
+    "Open": 1.24,
+    "High": 1.27,
+    "Low": 1.16,
+    "Close": 1.26,
+    "Volume": "47,723,271",
+    "Market Cap": "829,672,736"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 26, 2019",
+    "Open": 1.24,
+    "High": 1.28,
+    "Low": 1.23,
+    "Close": 1.24,
+    "Volume": "54,828,808",
+    "Market Cap": "822,065,277"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 25, 2019",
+    "Open": 1.33,
+    "High": 1.33,
+    "Low": 1.21,
+    "Close": 1.24,
+    "Volume": "64,954,006",
+    "Market Cap": "815,688,075"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 24, 2019",
+    "Open": 1.4,
+    "High": 1.42,
+    "Low": 1.31,
+    "Close": 1.34,
+    "Volume": "49,206,070",
+    "Market Cap": "887,731,654"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 23, 2019",
+    "Open": 1.22,
+    "High": 1.42,
+    "Low": 1.22,
+    "Close": 1.39,
+    "Volume": "123,832,790",
+    "Market Cap": "920,735,790"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 22, 2019",
+    "Open": 1.21,
+    "High": 1.28,
+    "Low": 1.08,
+    "Close": 1.22,
+    "Volume": "69,312,275",
+    "Market Cap": "804,427,044"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 21, 2019",
+    "Open": 1.21,
+    "High": 1.29,
+    "Low": 1.18,
+    "Close": 1.21,
+    "Volume": "53,020,027",
+    "Market Cap": "800,257,863"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 20, 2019",
+    "Open": 1.22,
+    "High": 1.25,
+    "Low": 1.17,
+    "Close": 1.21,
+    "Volume": "33,605,071",
+    "Market Cap": "801,174,969"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 19, 2019",
+    "Open": 1.23,
+    "High": 1.25,
+    "Low": 1.15,
+    "Close": 1.22,
+    "Volume": "35,796,763",
+    "Market Cap": "805,231,584"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 18, 2019",
+    "Open": 1.16,
+    "High": 1.26,
+    "Low": 1.16,
+    "Close": 1.23,
+    "Volume": "37,602,915",
+    "Market Cap": "813,744,878"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 17, 2019",
+    "Open": 1.16,
+    "High": 1.18,
+    "Low": 1.15,
+    "Close": 1.16,
+    "Volume": "22,483,167",
+    "Market Cap": "767,707,353"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 16, 2019",
+    "Open": 1.17,
+    "High": 1.18,
+    "Low": 1.16,
+    "Close": 1.16,
+    "Volume": "26,689,028",
+    "Market Cap": "768,303,560"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 15, 2019",
+    "Open": 1.22,
+    "High": 1.26,
+    "Low": 1.15,
+    "Close": 1.17,
+    "Volume": "32,203,363",
+    "Market Cap": "773,992,543"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 14, 2019",
+    "Open": 1.13,
+    "High": 1.3,
+    "Low": 1.11,
+    "Close": 1.22,
+    "Volume": "41,978,349",
+    "Market Cap": "808,582,829"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 13, 2019",
+    "Open": 1.17,
+    "High": 1.17,
+    "Low": 1.12,
+    "Close": 1.13,
+    "Volume": "23,410,839",
+    "Market Cap": "746,750,215"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 12, 2019",
+    "Open": 1.18,
+    "High": 1.2,
+    "Low": 1.15,
+    "Close": 1.17,
+    "Volume": "23,591,140",
+    "Market Cap": "771,905,281"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 11, 2019",
+    "Open": 1.23,
+    "High": 1.24,
+    "Low": 1.17,
+    "Close": 1.18,
+    "Volume": "25,012,739",
+    "Market Cap": "776,358,941"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 10, 2019",
+    "Open": 1.25,
+    "High": 1.25,
+    "Low": 1.19,
+    "Close": 1.23,
+    "Volume": "31,134,799",
+    "Market Cap": "812,505,004"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 09, 2019",
+    "Open": 1.17,
+    "High": 1.26,
+    "Low": 1.15,
+    "Close": 1.24,
+    "Volume": "34,760,712",
+    "Market Cap": "819,630,519"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 08, 2019",
+    "Open": 1.22,
+    "High": 1.28,
+    "Low": 1.12,
+    "Close": 1.17,
+    "Volume": "44,195,683",
+    "Market Cap": "770,094,896"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 07, 2019",
+    "Open": 1.02,
+    "High": 1.44,
+    "Low": 1.02,
+    "Close": 1.22,
+    "Volume": "92,805,360",
+    "Market Cap": "805,246,128"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 06, 2019",
+    "Open": 0.927547,
+    "High": 1.05,
+    "Low": 0.902417,
+    "Close": 1.02,
+    "Volume": "26,095,931",
+    "Market Cap": "673,756,212"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 05, 2019",
+    "Open": 0.891802,
+    "High": 0.929289,
+    "Low": 0.877752,
+    "Close": 0.927137,
+    "Volume": "13,420,498",
+    "Market Cap": "612,256,490"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 04, 2019",
+    "Open": 0.868023,
+    "High": 0.907127,
+    "Low": 0.8646,
+    "Close": 0.891802,
+    "Volume": "16,511,023",
+    "Market Cap": "588,922,638"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 03, 2019",
+    "Open": 0.865785,
+    "High": 0.874167,
+    "Low": 0.848911,
+    "Close": 0.868879,
+    "Volume": "11,444,717",
+    "Market Cap": "573,784,519"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 02, 2019",
+    "Open": 0.878443,
+    "High": 0.886302,
+    "Low": 0.857435,
+    "Close": 0.865528,
+    "Volume": "9,944,483",
+    "Market Cap": "571,571,532"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Nov 01, 2019",
+    "Open": 0.889461,
+    "High": 0.891029,
+    "Low": 0.863507,
+    "Close": 0.877941,
+    "Volume": "12,684,201",
+    "Market Cap": "579,768,933"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 31, 2019",
+    "Open": 0.914068,
+    "High": 0.924062,
+    "Low": 0.873981,
+    "Close": 0.890512,
+    "Volume": "13,120,625",
+    "Market Cap": "588,070,905"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 30, 2019",
+    "Open": 0.878168,
+    "High": 0.969414,
+    "Low": 0.774601,
+    "Close": 0.914079,
+    "Volume": "23,084,998",
+    "Market Cap": "603,633,344"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 29, 2019",
+    "Open": 0.871995,
+    "High": 0.917937,
+    "Low": 0.82545,
+    "Close": 0.878892,
+    "Volume": "19,713,852",
+    "Market Cap": "580,397,277"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 28, 2019",
+    "Open": 0.879748,
+    "High": 0.928777,
+    "Low": 0.768318,
+    "Close": 0.875315,
+    "Volume": "24,337,121",
+    "Market Cap": "578,034,790"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 27, 2019",
+    "Open": 0.836378,
+    "High": 0.890216,
+    "Low": 0.688631,
+    "Close": 0.875154,
+    "Volume": "23,186,370",
+    "Market Cap": "577,928,349"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 26, 2019",
+    "Open": 0.833823,
+    "High": 0.92603,
+    "Low": 0.818766,
+    "Close": 0.831994,
+    "Volume": "20,293,463",
+    "Market Cap": "549,426,804"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 25, 2019",
+    "Open": 0.767532,
+    "High": 0.842798,
+    "Low": 0.762231,
+    "Close": 0.834757,
+    "Volume": "16,862,309",
+    "Market Cap": "551,251,771"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 24, 2019",
+    "Open": 0.761316,
+    "High": 0.780364,
+    "Low": 0.754028,
+    "Close": 0.768243,
+    "Volume": "14,425,427",
+    "Market Cap": "507,327,662"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 23, 2019",
+    "Open": 0.838904,
+    "High": 0.839336,
+    "Low": 0.755143,
+    "Close": 0.761316,
+    "Volume": "14,131,553",
+    "Market Cap": "502,752,829"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 22, 2019",
+    "Open": 0.870816,
+    "High": 0.879914,
+    "Low": 0.833186,
+    "Close": 0.838575,
+    "Volume": "11,567,380",
+    "Market Cap": "553,772,790"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 21, 2019",
+    "Open": 0.877297,
+    "High": 0.889119,
+    "Low": 0.866837,
+    "Close": 0.871432,
+    "Volume": "11,434,852",
+    "Market Cap": "575,470,528"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 20, 2019",
+    "Open": 0.86545,
+    "High": 0.884321,
+    "Low": 0.861892,
+    "Close": 0.877438,
+    "Volume": "9,297,806",
+    "Market Cap": "579,437,174"
+  },
+  {
+    "Currency": "tezos",
+    "Date": "Oct 19, 2019",
+    "Open": 0.879461,
+    "High": 0.890271,
+    "Low": 0.861758,
+    "Close": 0.865266,
+    "Volume": "10,127,092",
+    "Market Cap": "571,399,102"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Dec 04, 2019",
+    "Open": "7,320.13",
+    "High": "7,539.78",
+    "Low": "7,170.92",
+    "Close": "7,252.03",
+    "Volume": "21,664,240,918",
+    "Market Cap": "131,143,073,943"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Dec 03, 2019",
+    "Open": "7,323.98",
+    "High": "7,418.86",
+    "Low": "7,229.36",
+    "Close": "7,320.15",
+    "Volume": "14,797,485,769",
+    "Market Cap": "132,359,942,301"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Dec 02, 2019",
+    "Open": "7,424.04",
+    "High": "7,474.82",
+    "Low": "7,233.40",
+    "Close": "7,321.99",
+    "Volume": "17,082,040,706",
+    "Market Cap": "132,378,982,377"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Dec 01, 2019",
+    "Open": "7,571.62",
+    "High": "7,571.62",
+    "Low": "7,291.34",
+    "Close": "7,424.29",
+    "Volume": "18,720,708,479",
+    "Market Cap": "134,215,145,410"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 30, 2019",
+    "Open": "7,764.06",
+    "High": "7,836.10",
+    "Low": "7,515.85",
+    "Close": "7,569.63",
+    "Volume": "17,158,194,786",
+    "Market Cap": "136,829,391,049"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 29, 2019",
+    "Open": "7,466.73",
+    "High": "7,781.18",
+    "Low": "7,460.76",
+    "Close": "7,761.24",
+    "Volume": "19,709,695,456",
+    "Market Cap": "140,280,108,521"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 28, 2019",
+    "Open": "7,536.82",
+    "High": "7,730.07",
+    "Low": "7,454.12",
+    "Close": "7,463.11",
+    "Volume": "19,050,116,751",
+    "Market Cap": "134,879,411,013"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 27, 2019",
+    "Open": "7,220.88",
+    "High": "7,619.69",
+    "Low": "6,974.17",
+    "Close": "7,531.66",
+    "Volume": "23,991,412,764",
+    "Market Cap": "136,102,712,894"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 26, 2019",
+    "Open": "7,145.16",
+    "High": "7,320.23",
+    "Low": "7,098.57",
+    "Close": "7,218.37",
+    "Volume": "21,129,505,542",
+    "Market Cap": "130,429,018,720"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 25, 2019",
+    "Open": "7,039.98",
+    "High": "7,319.86",
+    "Low": "6,617.17",
+    "Close": "7,146.13",
+    "Volume": "42,685,231,262",
+    "Market Cap": "129,112,952,930"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 24, 2019",
+    "Open": "7,398.63",
+    "High": "7,408.58",
+    "Low": "7,029.29",
+    "Close": "7,047.92",
+    "Volume": "30,433,517,289",
+    "Market Cap": "127,327,398,565"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 23, 2019",
+    "Open": "7,296.16",
+    "High": "7,442.26",
+    "Low": "7,151.42",
+    "Close": "7,397.80",
+    "Volume": "21,008,924,418",
+    "Market Cap": "133,636,205,957"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 22, 2019",
+    "Open": "7,643.57",
+    "High": "7,697.38",
+    "Low": "6,936.71",
+    "Close": "7,296.58",
+    "Volume": "34,242,315,785",
+    "Market Cap": "131,791,783,672"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 21, 2019",
+    "Open": "8,023.64",
+    "High": "8,110.10",
+    "Low": "7,597.38",
+    "Close": "7,642.75",
+    "Volume": "22,514,243,371",
+    "Market Cap": "138,031,885,379"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 20, 2019",
+    "Open": "8,203.61",
+    "High": "8,237.24",
+    "Low": "8,010.51",
+    "Close": "8,027.27",
+    "Volume": "20,764,300,437",
+    "Market Cap": "144,962,727,398"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 19, 2019",
+    "Open": "8,305.13",
+    "High": "8,408.52",
+    "Low": "8,099.96",
+    "Close": "8,206.15",
+    "Volume": "21,083,613,816",
+    "Market Cap": "148,178,376,843"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 18, 2019",
+    "Open": "8,573.98",
+    "High": "8,653.28",
+    "Low": "8,273.57",
+    "Close": "8,309.29",
+    "Volume": "21,579,470,673",
+    "Market Cap": "150,025,712,267"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 17, 2019",
+    "Open": "8,549.47",
+    "High": "8,727.79",
+    "Low": "8,500.97",
+    "Close": "8,577.98",
+    "Volume": "18,668,638,897",
+    "Market Cap": "154,861,842,425"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 16, 2019",
+    "Open": "8,491.17",
+    "High": "8,592.00",
+    "Low": "8,473.97",
+    "Close": "8,550.76",
+    "Volume": "16,495,389,808",
+    "Market Cap": "154,354,054,194"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 15, 2019",
+    "Open": "8,705.71",
+    "High": "8,730.87",
+    "Low": "8,484.84",
+    "Close": "8,491.99",
+    "Volume": "21,796,856,471",
+    "Market Cap": "153,277,483,626"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 14, 2019",
+    "Open": "8,811.94",
+    "High": "8,826.94",
+    "Low": "8,692.55",
+    "Close": "8,708.10",
+    "Volume": "19,084,739,975",
+    "Market Cap": "157,160,974,644"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 13, 2019",
+    "Open": "8,812.03",
+    "High": "8,836.84",
+    "Low": "8,761.65",
+    "Close": "8,808.26",
+    "Volume": "17,545,755,405",
+    "Market Cap": "158,949,942,842"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 12, 2019",
+    "Open": "8,759.75",
+    "High": "8,853.77",
+    "Low": "8,685.43",
+    "Close": "8,815.66",
+    "Volume": "20,309,769,107",
+    "Market Cap": "159,068,712,900"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 11, 2019",
+    "Open": "9,056.92",
+    "High": "9,081.28",
+    "Low": "8,700.61",
+    "Close": "8,757.79",
+    "Volume": "20,265,510,765",
+    "Market Cap": "158,009,772,437"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 10, 2019",
+    "Open": "8,812.49",
+    "High": "9,103.83",
+    "Low": "8,806.16",
+    "Close": "9,055.53",
+    "Volume": "20,587,919,881",
+    "Market Cap": "163,364,406,732"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 09, 2019",
+    "Open": "8,809.47",
+    "High": "8,891.82",
+    "Low": "8,793.16",
+    "Close": "8,813.58",
+    "Volume": "17,578,630,606",
+    "Market Cap": "158,981,489,715"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 08, 2019",
+    "Open": "9,265.37",
+    "High": "9,272.76",
+    "Low": "8,775.53",
+    "Close": "8,804.88",
+    "Volume": "24,333,037,836",
+    "Market Cap": "158,808,570,729"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 07, 2019",
+    "Open": "9,352.39",
+    "High": "9,368.48",
+    "Low": "9,202.35",
+    "Close": "9,267.56",
+    "Volume": "22,700,383,839",
+    "Market Cap": "167,138,722,904"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 06, 2019",
+    "Open": "9,340.86",
+    "High": "9,423.24",
+    "Low": "9,305.91",
+    "Close": "9,360.88",
+    "Volume": "23,133,895,765",
+    "Market Cap": "168,806,151,583"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 05, 2019",
+    "Open": "9,413.00",
+    "High": "9,457.42",
+    "Low": "9,256.93",
+    "Close": "9,342.53",
+    "Volume": "26,198,609,048",
+    "Market Cap": "168,459,778,835"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 04, 2019",
+    "Open": "9,235.61",
+    "High": "9,505.05",
+    "Low": "9,191.49",
+    "Close": "9,412.61",
+    "Volume": "26,170,255,634",
+    "Market Cap": "169,706,332,936"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 03, 2019",
+    "Open": "9,324.79",
+    "High": "9,379.81",
+    "Low": "9,141.25",
+    "Close": "9,235.35",
+    "Volume": "21,132,220,847",
+    "Market Cap": "166,495,319,475"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 02, 2019",
+    "Open": "9,259.78",
+    "High": "9,377.49",
+    "Low": "9,249.59",
+    "Close": "9,324.72",
+    "Volume": "21,242,676,385",
+    "Market Cap": "168,090,392,935"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Nov 01, 2019",
+    "Open": "9,193.99",
+    "High": "9,275.66",
+    "Low": "9,132.05",
+    "Close": "9,261.10",
+    "Volume": "24,324,691,031",
+    "Market Cap": "166,928,044,164"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 31, 2019",
+    "Open": "9,202.46",
+    "High": "9,383.16",
+    "Low": "9,028.72",
+    "Close": "9,199.58",
+    "Volume": "26,583,653,947",
+    "Market Cap": "165,804,227,835"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 30, 2019",
+    "Open": "9,422.46",
+    "High": "9,426.87",
+    "Low": "9,085.37",
+    "Close": "9,205.73",
+    "Volume": "27,706,531,577",
+    "Market Cap": "165,899,500,650"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 29, 2019",
+    "Open": "9,248.44",
+    "High": "9,516.18",
+    "Low": "9,232.65",
+    "Close": "9,427.69",
+    "Volume": "28,426,779,937",
+    "Market Cap": "169,883,866,262"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 28, 2019",
+    "Open": "9,565.10",
+    "High": "9,805.12",
+    "Low": "9,256.15",
+    "Close": "9,256.15",
+    "Volume": "30,948,255,332",
+    "Market Cap": "166,777,392,742"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 27, 2019",
+    "Open": "9,241.71",
+    "High": "9,749.53",
+    "Low": "9,112.54",
+    "Close": "9,551.71",
+    "Volume": "32,593,129,501",
+    "Market Cap": "172,087,039,875"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 26, 2019",
+    "Open": "8,667.58",
+    "High": "10,021.74",
+    "Low": "8,662.62",
+    "Close": "9,244.97",
+    "Volume": "44,496,255,609",
+    "Market Cap": "166,547,360,782"
+  },
+  {
+    "Currency": "bitcoin",
+    "Date": "Oct 25, 2019",
+    "Open": "7,490.70",
+    "High": "8,691.54",
+    "Low": "7,479.98",
+    "Close": "8,660.70",
+    "Volume": "28,705,065,488",
+    "Market Cap": "156,006,603,607"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Dec 04, 2019",
+    "Open": 15.35,
+    "High": 15.69,
+    "Low": 15.01,
+    "Close": 15.28,
+    "Volume": "237,605,471",
+    "Market Cap": "2,376,597,490"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Dec 03, 2019",
+    "Open": 15.19,
+    "High": 15.55,
+    "Low": 15.05,
+    "Close": 15.31,
+    "Volume": "219,927,266",
+    "Market Cap": "2,381,198,047"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Dec 02, 2019",
+    "Open": 15.51,
+    "High": 15.71,
+    "Low": 15.15,
+    "Close": 15.19,
+    "Volume": "200,809,249",
+    "Market Cap": "2,362,891,697"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Dec 01, 2019",
+    "Open": 15.74,
+    "High": 15.74,
+    "Low": 15.05,
+    "Close": 15.5,
+    "Volume": "203,268,417",
+    "Market Cap": "2,410,249,227"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 30, 2019",
+    "Open": 16.26,
+    "High": 16.37,
+    "Low": 15.54,
+    "Close": 15.72,
+    "Volume": "213,428,131",
+    "Market Cap": "2,444,407,390"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 29, 2019",
+    "Open": 15.68,
+    "High": 16.34,
+    "Low": 15.65,
+    "Close": 16.27,
+    "Volume": "250,074,235",
+    "Market Cap": "2,531,096,195"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 28, 2019",
+    "Open": 16.1,
+    "High": 16.23,
+    "Low": 15.65,
+    "Close": 15.68,
+    "Volume": "194,516,396",
+    "Market Cap": "2,439,314,462"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 27, 2019",
+    "Open": 15.49,
+    "High": 16.2,
+    "Low": 14.94,
+    "Close": 16.1,
+    "Volume": "255,021,618",
+    "Market Cap": "2,503,874,750"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 26, 2019",
+    "Open": 15.27,
+    "High": 15.86,
+    "Low": 15.23,
+    "Close": 15.53,
+    "Volume": "205,893,351",
+    "Market Cap": "2,415,058,208"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 25, 2019",
+    "Open": 15.29,
+    "High": 15.74,
+    "Low": 14.2,
+    "Close": 15.27,
+    "Volume": "242,510,343",
+    "Market Cap": "2,374,635,550"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 24, 2019",
+    "Open": 16.4,
+    "High": 16.49,
+    "Low": 15.28,
+    "Close": 15.28,
+    "Volume": "232,363,837",
+    "Market Cap": "2,376,408,889"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 23, 2019",
+    "Open": 15.58,
+    "High": 16.47,
+    "Low": 15.15,
+    "Close": 16.42,
+    "Volume": "255,961,052",
+    "Market Cap": "2,553,835,169"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 22, 2019",
+    "Open": 16.84,
+    "High": 17.27,
+    "Low": 14.69,
+    "Close": 15.58,
+    "Volume": "341,456,274",
+    "Market Cap": "2,423,526,845"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 21, 2019",
+    "Open": 18.16,
+    "High": 18.19,
+    "Low": 16.62,
+    "Close": 16.84,
+    "Volume": "228,429,806",
+    "Market Cap": "2,619,271,948"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 20, 2019",
+    "Open": 18.71,
+    "High": 18.93,
+    "Low": 17.85,
+    "Close": 18.17,
+    "Volume": "210,091,849",
+    "Market Cap": "2,826,455,734"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 19, 2019",
+    "Open": 19.31,
+    "High": 19.63,
+    "Low": 18.38,
+    "Close": 18.7,
+    "Volume": "206,923,366",
+    "Market Cap": "2,909,049,614"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 18, 2019",
+    "Open": 20.34,
+    "High": 20.43,
+    "Low": 18.94,
+    "Close": 19.32,
+    "Volume": "224,380,017",
+    "Market Cap": "3,004,482,390"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 17, 2019",
+    "Open": 20.28,
+    "High": 20.62,
+    "Low": 20.03,
+    "Close": 20.26,
+    "Volume": "224,982,344",
+    "Market Cap": "3,151,297,091"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 16, 2019",
+    "Open": 20.32,
+    "High": 20.63,
+    "Low": 20.09,
+    "Close": 20.28,
+    "Volume": "211,016,746",
+    "Market Cap": "3,154,697,160"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 15, 2019",
+    "Open": 21.24,
+    "High": 21.29,
+    "Low": 20.18,
+    "Close": 20.32,
+    "Volume": "225,530,775",
+    "Market Cap": "3,159,918,981"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 14, 2019",
+    "Open": 21.28,
+    "High": 21.51,
+    "Low": 20.97,
+    "Close": 21.26,
+    "Volume": "237,992,230",
+    "Market Cap": "3,307,441,359"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 13, 2019",
+    "Open": 20.87,
+    "High": 21.64,
+    "Low": 20.71,
+    "Close": 21.25,
+    "Volume": "252,296,146",
+    "Market Cap": "3,305,222,292"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 12, 2019",
+    "Open": 20.14,
+    "High": 20.86,
+    "Low": 20.09,
+    "Close": 20.86,
+    "Volume": "227,650,068",
+    "Market Cap": "3,244,098,617"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 11, 2019",
+    "Open": 20.48,
+    "High": 20.64,
+    "Low": 19.92,
+    "Close": 20.13,
+    "Volume": "209,454,454",
+    "Market Cap": "3,131,442,373"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 10, 2019",
+    "Open": 19.73,
+    "High": 20.63,
+    "Low": 19.73,
+    "Close": 20.48,
+    "Volume": "239,714,468",
+    "Market Cap": "3,185,665,329"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 09, 2019",
+    "Open": 19.68,
+    "High": 19.98,
+    "Low": 19.6,
+    "Close": 19.74,
+    "Volume": "176,812,608",
+    "Market Cap": "3,069,586,392"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 08, 2019",
+    "Open": 20.69,
+    "High": 20.69,
+    "Low": 19.47,
+    "Close": 19.69,
+    "Volume": "184,596,047",
+    "Market Cap": "3,062,638,047"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 07, 2019",
+    "Open": 20.81,
+    "High": 20.96,
+    "Low": 20.25,
+    "Close": 20.65,
+    "Volume": "222,003,636",
+    "Market Cap": "3,211,356,528"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 06, 2019",
+    "Open": 20.72,
+    "High": 20.92,
+    "Low": 20.28,
+    "Close": 20.82,
+    "Volume": "241,489,968",
+    "Market Cap": "3,237,951,225"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 05, 2019",
+    "Open": 20.74,
+    "High": 20.92,
+    "Low": 20.45,
+    "Close": 20.72,
+    "Volume": "263,685,442",
+    "Market Cap": "3,223,447,634"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 04, 2019",
+    "Open": 20.23,
+    "High": 20.92,
+    "Low": 20.18,
+    "Close": 20.74,
+    "Volume": "296,502,530",
+    "Market Cap": "3,225,517,472"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 03, 2019",
+    "Open": 20.27,
+    "High": 20.43,
+    "Low": 19.89,
+    "Close": 20.21,
+    "Volume": "257,571,666",
+    "Market Cap": "3,142,781,986"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 02, 2019",
+    "Open": 20.02,
+    "High": 20.4,
+    "Low": 19.86,
+    "Close": 20.27,
+    "Volume": "273,890,078",
+    "Market Cap": "3,152,261,627"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Nov 01, 2019",
+    "Open": 19.99,
+    "High": 20.06,
+    "Low": 19.78,
+    "Close": 20.02,
+    "Volume": "198,377,285",
+    "Market Cap": "3,114,078,497"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 31, 2019",
+    "Open": 20.1,
+    "High": 20.4,
+    "Low": 19.54,
+    "Close": 20,
+    "Volume": "250,225,840",
+    "Market Cap": "3,110,770,519"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 30, 2019",
+    "Open": 20.49,
+    "High": 20.58,
+    "Low": 19.23,
+    "Close": 20.09,
+    "Volume": "250,293,832",
+    "Market Cap": "3,124,258,265"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 29, 2019",
+    "Open": 19.81,
+    "High": 20.92,
+    "Low": 19.7,
+    "Close": 20.48,
+    "Volume": "317,609,149",
+    "Market Cap": "3,184,941,705"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 28, 2019",
+    "Open": 19.34,
+    "High": 20.9,
+    "Low": 19.31,
+    "Close": 19.76,
+    "Volume": "337,867,337",
+    "Market Cap": "3,073,144,009"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 27, 2019",
+    "Open": 18.89,
+    "High": 19.59,
+    "Low": 18.57,
+    "Close": 19.35,
+    "Volume": "292,948,855",
+    "Market Cap": "3,008,958,175"
+  },
+  {
+    "Currency": "bnb",
+    "Date": "Oct 26, 2019",
+    "Open": 18.63,
+    "High": 19.78,
+    "Low": 18.18,
+    "Close": 18.89,
+    "Volume": "292,124,012",
+    "Market Cap": "2,938,042,518"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Dec 04, 2019",
+    "Open": 212.68,
+    "High": 216.6,
+    "Low": 205.89,
+    "Close": 209.29,
+    "Volume": "1,441,054,845",
+    "Market Cap": "3,798,514,529"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Dec 03, 2019",
+    "Open": 215.5,
+    "High": 217.16,
+    "Low": 211.62,
+    "Close": 212.86,
+    "Volume": "1,072,206,668",
+    "Market Cap": "3,862,794,370"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Dec 02, 2019",
+    "Open": 216.38,
+    "High": 218.92,
+    "Low": 212.36,
+    "Close": 215.66,
+    "Volume": "1,164,376,888",
+    "Market Cap": "3,913,199,174"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Dec 01, 2019",
+    "Open": 218.99,
+    "High": 219.26,
+    "Low": 212.5,
+    "Close": 216.17,
+    "Volume": "1,260,404,762",
+    "Market Cap": "3,922,144,119"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 30, 2019",
+    "Open": 224.98,
+    "High": 226.76,
+    "Low": 217.43,
+    "Close": 218.91,
+    "Volume": "1,309,092,627",
+    "Market Cap": "3,971,434,832"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 29, 2019",
+    "Open": 218.89,
+    "High": 225.69,
+    "Low": 218.44,
+    "Close": 224.81,
+    "Volume": "1,475,684,082",
+    "Market Cap": "4,078,066,144"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 28, 2019",
+    "Open": 220.12,
+    "High": 226.24,
+    "Low": 218.58,
+    "Close": 218.74,
+    "Volume": "1,391,327,826",
+    "Market Cap": "3,967,553,739"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 27, 2019",
+    "Open": 212.36,
+    "High": 224.12,
+    "Low": 206.61,
+    "Close": 220.41,
+    "Volume": "1,963,457,159",
+    "Market Cap": "3,997,547,767"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 26, 2019",
+    "Open": 208.78,
+    "High": 214.93,
+    "Low": 208.35,
+    "Close": 212.93,
+    "Volume": "1,808,857,014",
+    "Market Cap": "3,861,504,453"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 25, 2019",
+    "Open": 205.24,
+    "High": 215.3,
+    "Low": 194.76,
+    "Close": 209.24,
+    "Volume": "2,401,604,928",
+    "Market Cap": "3,794,036,862"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 24, 2019",
+    "Open": 217.29,
+    "High": 217.91,
+    "Low": 205.14,
+    "Close": 205.15,
+    "Volume": "2,128,845,957",
+    "Market Cap": "3,719,555,398"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 23, 2019",
+    "Open": 209.1,
+    "High": 217.36,
+    "Low": 202.89,
+    "Close": 217.34,
+    "Volume": "2,407,778,555",
+    "Market Cap": "3,940,197,869"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 22, 2019",
+    "Open": 226.7,
+    "High": 229.26,
+    "Low": 198.15,
+    "Close": 208.93,
+    "Volume": "3,382,940,612",
+    "Market Cap": "3,787,329,094"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 21, 2019",
+    "Open": 244.2,
+    "High": 246.82,
+    "Low": 222.46,
+    "Close": 226.6,
+    "Volume": "2,401,952,813",
+    "Market Cap": "4,107,271,775"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 20, 2019",
+    "Open": 244.34,
+    "High": 248.62,
+    "Low": 241.52,
+    "Close": 244.24,
+    "Volume": "1,805,761,006",
+    "Market Cap": "4,426,589,668"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 19, 2019",
+    "Open": 250.17,
+    "High": 253.92,
+    "Low": 236.83,
+    "Close": 244.41,
+    "Volume": "2,131,441,345",
+    "Market Cap": "4,429,141,571"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 18, 2019",
+    "Open": 268.47,
+    "High": 269.8,
+    "Low": 246.33,
+    "Close": 250.18,
+    "Volume": "2,115,048,013",
+    "Market Cap": "4,533,460,759"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 17, 2019",
+    "Open": 267.71,
+    "High": 274.04,
+    "Low": 264.4,
+    "Close": 268.74,
+    "Volume": "1,565,942,482",
+    "Market Cap": "4,869,324,517"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 16, 2019",
+    "Open": 264.96,
+    "High": 269.5,
+    "Low": 263.4,
+    "Close": 267.7,
+    "Volume": "1,481,946,683",
+    "Market Cap": "4,849,880,730"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 15, 2019",
+    "Open": 280.07,
+    "High": 280.27,
+    "Low": 264.04,
+    "Close": 264.71,
+    "Volume": "1,918,658,721",
+    "Market Cap": "4,795,268,314"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 14, 2019",
+    "Open": 286.24,
+    "High": 287.01,
+    "Low": 277.44,
+    "Close": 279.56,
+    "Volume": "1,835,340,820",
+    "Market Cap": "5,063,764,909"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 13, 2019",
+    "Open": 289.04,
+    "High": 289.66,
+    "Low": 284.09,
+    "Close": 286.49,
+    "Volume": "1,555,824,951",
+    "Market Cap": "5,188,837,230"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 12, 2019",
+    "Open": 287.18,
+    "High": 291.64,
+    "Low": 284.55,
+    "Close": 289.24,
+    "Volume": "1,840,497,856",
+    "Market Cap": "5,238,065,361"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 11, 2019",
+    "Open": 293.57,
+    "High": 297.01,
+    "Low": 284.39,
+    "Close": 287.16,
+    "Volume": "1,873,466,817",
+    "Market Cap": "5,199,842,645"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 10, 2019",
+    "Open": 282.73,
+    "High": 296.04,
+    "Low": 281.32,
+    "Close": 293.48,
+    "Volume": "2,125,907,737",
+    "Market Cap": "5,313,685,658"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 09, 2019",
+    "Open": 277.9,
+    "High": 284.1,
+    "Low": 277.88,
+    "Close": 282.74,
+    "Volume": "1,689,515,654",
+    "Market Cap": "5,118,863,818"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 08, 2019",
+    "Open": 293.83,
+    "High": 294.61,
+    "Low": 274.3,
+    "Close": 277.98,
+    "Volume": "2,226,108,792",
+    "Market Cap": "5,032,069,448"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 07, 2019",
+    "Open": 306.29,
+    "High": 306.67,
+    "Low": 289.45,
+    "Close": 293.5,
+    "Volume": "2,183,103,768",
+    "Market Cap": "5,312,581,525"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 06, 2019",
+    "Open": 293.46,
+    "High": 307.36,
+    "Low": 292.64,
+    "Close": 306.23,
+    "Volume": "2,418,826,077",
+    "Market Cap": "5,542,406,467"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 05, 2019",
+    "Open": 291.78,
+    "High": 295.8,
+    "Low": 287.93,
+    "Close": 293.71,
+    "Volume": "2,269,171,137",
+    "Market Cap": "5,315,239,099"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 04, 2019",
+    "Open": 292.8,
+    "High": 293.98,
+    "Low": 286.84,
+    "Close": 291.85,
+    "Volume": "2,478,124,574",
+    "Market Cap": "5,281,034,076"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 03, 2019",
+    "Open": 290.73,
+    "High": 303.13,
+    "Low": 283.73,
+    "Close": 292.71,
+    "Volume": "2,598,715,593",
+    "Market Cap": "5,296,136,970"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 02, 2019",
+    "Open": 279.22,
+    "High": 295.23,
+    "Low": 278.98,
+    "Close": 290.72,
+    "Volume": "2,353,771,063",
+    "Market Cap": "5,259,529,632"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Nov 01, 2019",
+    "Open": 284.49,
+    "High": 284.49,
+    "Low": 274.11,
+    "Close": 279.14,
+    "Volume": "2,375,427,805",
+    "Market Cap": "5,049,556,631"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 31, 2019",
+    "Open": 290.4,
+    "High": 296.56,
+    "Low": 274.43,
+    "Close": 284.48,
+    "Volume": "2,933,178,100",
+    "Market Cap": "5,145,642,139"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 30, 2019",
+    "Open": 289.19,
+    "High": 303.61,
+    "Low": 285.74,
+    "Close": 290.63,
+    "Volume": "3,583,344,209",
+    "Market Cap": "5,256,428,279"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 29, 2019",
+    "Open": 265.38,
+    "High": 295.47,
+    "Low": 264.28,
+    "Close": 288.96,
+    "Volume": "4,123,613,696",
+    "Market Cap": "5,225,681,741"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 28, 2019",
+    "Open": 261.15,
+    "High": 274.81,
+    "Low": 260.11,
+    "Close": 265.41,
+    "Volume": "3,107,818,242",
+    "Market Cap": "4,799,371,733"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 27, 2019",
+    "Open": 252.56,
+    "High": 265.96,
+    "Low": 246.34,
+    "Close": 261.25,
+    "Volume": "3,228,198,618",
+    "Market Cap": "4,723,673,729"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 26, 2019",
+    "Open": 259.53,
+    "High": 277.12,
+    "Low": 244.46,
+    "Close": 252.51,
+    "Volume": "3,875,753,112",
+    "Market Cap": "4,565,115,347"
+  },
+  {
+    "Currency": "bitcoin-cash",
+    "Date": "Oct 25, 2019",
+    "Open": 214.21,
+    "High": 265.03,
+    "Low": 213.81,
+    "Close": 259.17,
+    "Volume": "3,309,084,358",
+    "Market Cap": "4,685,079,701"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Dec 04, 2019",
+    "Open": 0.037906,
+    "High": 0.038533,
+    "Low": 0.03655,
+    "Close": 0.037405,
+    "Volume": "51,692,274",
+    "Market Cap": "969,802,335"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Dec 03, 2019",
+    "Open": 0.038047,
+    "High": 0.038761,
+    "Low": 0.037226,
+    "Close": 0.037917,
+    "Volume": "34,356,883",
+    "Market Cap": "983,080,974"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Dec 02, 2019",
+    "Open": 0.039612,
+    "High": 0.039769,
+    "Low": 0.03758,
+    "Close": 0.038056,
+    "Volume": "43,069,274",
+    "Market Cap": "986,684,920"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Dec 01, 2019",
+    "Open": 0.040426,
+    "High": 0.040426,
+    "Low": 0.038467,
+    "Close": 0.039587,
+    "Volume": "59,641,355",
+    "Market Cap": "1,026,365,437"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 30, 2019",
+    "Open": 0.041416,
+    "High": 0.042268,
+    "Low": 0.040068,
+    "Close": 0.040425,
+    "Volume": "64,184,926",
+    "Market Cap": "1,048,107,282"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 29, 2019",
+    "Open": 0.039227,
+    "High": 0.04204,
+    "Low": 0.039194,
+    "Close": 0.041423,
+    "Volume": "99,506,198",
+    "Market Cap": "1,073,986,624"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 28, 2019",
+    "Open": 0.039129,
+    "High": 0.03999,
+    "Low": 0.038641,
+    "Close": 0.03919,
+    "Volume": "60,743,403",
+    "Market Cap": "1,016,079,672"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 27, 2019",
+    "Open": 0.036955,
+    "High": 0.0398,
+    "Low": 0.035783,
+    "Close": 0.039049,
+    "Volume": "76,841,561",
+    "Market Cap": "1,012,420,887"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 26, 2019",
+    "Open": 0.036046,
+    "High": 0.037074,
+    "Low": 0.035705,
+    "Close": 0.036993,
+    "Volume": "57,431,470",
+    "Market Cap": "959,117,573"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 25, 2019",
+    "Open": 0.035543,
+    "High": 0.037184,
+    "Low": 0.033336,
+    "Close": 0.036048,
+    "Volume": "96,694,224",
+    "Market Cap": "934,626,616"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 24, 2019",
+    "Open": 0.038371,
+    "High": 0.038916,
+    "Low": 0.035556,
+    "Close": 0.035588,
+    "Volume": "62,998,664",
+    "Market Cap": "922,680,695"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 23, 2019",
+    "Open": 0.037159,
+    "High": 0.038423,
+    "Low": 0.036701,
+    "Close": 0.038343,
+    "Volume": "58,979,321",
+    "Market Cap": "994,122,170"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 22, 2019",
+    "Open": 0.038447,
+    "High": 0.038685,
+    "Low": 0.034611,
+    "Close": 0.037148,
+    "Volume": "93,310,136",
+    "Market Cap": "963,130,806"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 21, 2019",
+    "Open": 0.041169,
+    "High": 0.041249,
+    "Low": 0.037727,
+    "Close": 0.038406,
+    "Volume": "67,101,708",
+    "Market Cap": "995,755,250"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 20, 2019",
+    "Open": 0.042588,
+    "High": 0.042794,
+    "Low": 0.040809,
+    "Close": 0.041178,
+    "Volume": "69,854,304",
+    "Market Cap": "1,067,634,701"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 19, 2019",
+    "Open": 0.043697,
+    "High": 0.044451,
+    "Low": 0.041383,
+    "Close": 0.042542,
+    "Volume": "91,311,583",
+    "Market Cap": "1,102,995,485"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 18, 2019",
+    "Open": 0.045403,
+    "High": 0.046652,
+    "Low": 0.043543,
+    "Close": 0.043802,
+    "Volume": "106,595,679",
+    "Market Cap": "1,135,647,864"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 17, 2019",
+    "Open": 0.044153,
+    "High": 0.046423,
+    "Low": 0.04367,
+    "Close": 0.045421,
+    "Volume": "74,834,540",
+    "Market Cap": "1,177,627,885"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 16, 2019",
+    "Open": 0.043978,
+    "High": 0.044655,
+    "Low": 0.043511,
+    "Close": 0.044172,
+    "Volume": "61,781,146",
+    "Market Cap": "1,145,239,519"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 15, 2019",
+    "Open": 0.04313,
+    "High": 0.044432,
+    "Low": 0.042329,
+    "Close": 0.043974,
+    "Volume": "81,592,975",
+    "Market Cap": "1,140,128,777"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 14, 2019",
+    "Open": 0.043489,
+    "High": 0.04355,
+    "Low": 0.042399,
+    "Close": 0.043119,
+    "Volume": "53,295,194",
+    "Market Cap": "1,117,958,882"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 13, 2019",
+    "Open": 0.043722,
+    "High": 0.044044,
+    "Low": 0.04332,
+    "Close": 0.043492,
+    "Volume": "42,332,678",
+    "Market Cap": "1,127,632,602"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 12, 2019",
+    "Open": 0.043257,
+    "High": 0.044631,
+    "Low": 0.043227,
+    "Close": 0.043767,
+    "Volume": "79,520,150",
+    "Market Cap": "1,134,751,210"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 11, 2019",
+    "Open": 0.043971,
+    "High": 0.044122,
+    "Low": 0.042499,
+    "Close": 0.043194,
+    "Volume": "57,846,910",
+    "Market Cap": "1,119,896,696"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 10, 2019",
+    "Open": 0.042438,
+    "High": 0.044227,
+    "Low": 0.042388,
+    "Close": 0.043958,
+    "Volume": "71,691,725",
+    "Market Cap": "1,139,696,016"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 09, 2019",
+    "Open": 0.042298,
+    "High": 0.042755,
+    "Low": 0.042139,
+    "Close": 0.042445,
+    "Volume": "41,365,742",
+    "Market Cap": "1,100,480,940"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 08, 2019",
+    "Open": 0.043644,
+    "High": 0.043837,
+    "Low": 0.04138,
+    "Close": 0.042297,
+    "Volume": "70,275,428",
+    "Market Cap": "1,096,640,030"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 07, 2019",
+    "Open": 0.044928,
+    "High": 0.045018,
+    "Low": 0.042724,
+    "Close": 0.043637,
+    "Volume": "63,525,683",
+    "Market Cap": "1,131,378,703"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 06, 2019",
+    "Open": 0.044301,
+    "High": 0.046105,
+    "Low": 0.043826,
+    "Close": 0.044956,
+    "Volume": "71,743,244",
+    "Market Cap": "1,165,576,446"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 05, 2019",
+    "Open": 0.043261,
+    "High": 0.044928,
+    "Low": 0.043232,
+    "Close": 0.044328,
+    "Volume": "82,868,890",
+    "Market Cap": "1,149,307,855"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 04, 2019",
+    "Open": 0.041889,
+    "High": 0.043257,
+    "Low": 0.041607,
+    "Close": 0.043236,
+    "Volume": "62,120,503",
+    "Market Cap": "1,120,989,389"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 03, 2019",
+    "Open": 0.042581,
+    "High": 0.042684,
+    "Low": 0.041358,
+    "Close": 0.04193,
+    "Volume": "38,559,537",
+    "Market Cap": "1,087,128,848"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 02, 2019",
+    "Open": 0.042336,
+    "High": 0.042745,
+    "Low": 0.042069,
+    "Close": 0.042599,
+    "Volume": "47,127,524",
+    "Market Cap": "1,104,469,763"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Nov 01, 2019",
+    "Open": 0.041645,
+    "High": 0.042858,
+    "Low": 0.04124,
+    "Close": 0.042345,
+    "Volume": "60,880,837",
+    "Market Cap": "1,097,888,791"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 31, 2019",
+    "Open": 0.041963,
+    "High": 0.042792,
+    "Low": 0.040456,
+    "Close": 0.041636,
+    "Volume": "65,333,067",
+    "Market Cap": "1,079,489,291"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 30, 2019",
+    "Open": 0.043428,
+    "High": 0.044337,
+    "Low": 0.041334,
+    "Close": 0.041967,
+    "Volume": "87,541,890",
+    "Market Cap": "1,088,083,802"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 29, 2019",
+    "Open": 0.042328,
+    "High": 0.043819,
+    "Low": 0.042259,
+    "Close": 0.043444,
+    "Volume": "83,357,024",
+    "Market Cap": "1,126,380,670"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 28, 2019",
+    "Open": 0.042315,
+    "High": 0.044553,
+    "Low": 0.042051,
+    "Close": 0.042363,
+    "Volume": "101,906,301",
+    "Market Cap": "1,098,341,833"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 27, 2019",
+    "Open": 0.040537,
+    "High": 0.042985,
+    "Low": 0.039637,
+    "Close": 0.042335,
+    "Volume": "122,643,093",
+    "Market Cap": "1,097,616,330"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 26, 2019",
+    "Open": 0.04122,
+    "High": 0.043177,
+    "Low": 0.039668,
+    "Close": 0.040547,
+    "Volume": "122,861,125",
+    "Market Cap": "1,051,275,058"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 25, 2019",
+    "Open": 0.037678,
+    "High": 0.041799,
+    "Low": 0.037581,
+    "Close": 0.041246,
+    "Volume": "80,455,621",
+    "Market Cap": "1,069,400,506"
+  },
+  {
+    "Currency": "cardano",
+    "Date": "Oct 24, 2019",
+    "Open": 0.036409,
+    "High": 0.038109,
+    "Low": 0.036203,
+    "Close": 0.037685,
+    "Volume": "49,800,738",
+    "Market Cap": "977,063,811"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Dec 04, 2019",
+    "Open": 2.7,
+    "High": 2.74,
+    "Low": 2.6,
+    "Close": 2.65,
+    "Volume": "1,991,656,646",
+    "Market Cap": "2,497,719,668"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Dec 03, 2019",
+    "Open": 2.69,
+    "High": 2.74,
+    "Low": 2.65,
+    "Close": 2.7,
+    "Volume": "1,391,933,885",
+    "Market Cap": "2,549,066,942"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Dec 02, 2019",
+    "Open": 2.78,
+    "High": 2.8,
+    "Low": 2.66,
+    "Close": 2.69,
+    "Volume": "1,641,895,350",
+    "Market Cap": "2,531,453,856"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Dec 01, 2019",
+    "Open": 2.76,
+    "High": 2.84,
+    "Low": 2.68,
+    "Close": 2.78,
+    "Volume": "1,792,147,034",
+    "Market Cap": "2,618,290,742"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 30, 2019",
+    "Open": 2.8,
+    "High": 2.83,
+    "Low": 2.74,
+    "Close": 2.76,
+    "Volume": "1,537,950,803",
+    "Market Cap": "2,598,670,742"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 29, 2019",
+    "Open": 2.64,
+    "High": 2.8,
+    "Low": 2.64,
+    "Close": 2.8,
+    "Volume": "1,899,935,358",
+    "Market Cap": "2,636,173,142"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 28, 2019",
+    "Open": 2.69,
+    "High": 2.76,
+    "Low": 2.62,
+    "Close": 2.64,
+    "Volume": "1,514,999,632",
+    "Market Cap": "2,483,560,320"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 27, 2019",
+    "Open": 2.63,
+    "High": 2.73,
+    "Low": 2.53,
+    "Close": 2.69,
+    "Volume": "2,247,567,344",
+    "Market Cap": "2,532,133,843"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 26, 2019",
+    "Open": 2.53,
+    "High": 2.65,
+    "Low": 2.53,
+    "Close": 2.63,
+    "Volume": "1,894,353,525",
+    "Market Cap": "2,479,535,254"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 25, 2019",
+    "Open": 2.45,
+    "High": 2.6,
+    "Low": 2.37,
+    "Close": 2.54,
+    "Volume": "3,240,749,705",
+    "Market Cap": "2,387,930,189"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 24, 2019",
+    "Open": 2.72,
+    "High": 2.73,
+    "Low": 2.45,
+    "Close": 2.45,
+    "Volume": "2,906,089,979",
+    "Market Cap": "2,307,205,605"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 23, 2019",
+    "Open": 2.63,
+    "High": 2.73,
+    "Low": 2.59,
+    "Close": 2.72,
+    "Volume": "2,021,876,981",
+    "Market Cap": "2,564,872,526"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 22, 2019",
+    "Open": 2.83,
+    "High": 2.85,
+    "Low": 2.51,
+    "Close": 2.63,
+    "Volume": "3,602,118,620",
+    "Market Cap": "2,477,842,442"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 21, 2019",
+    "Open": 3.1,
+    "High": 3.12,
+    "Low": 2.79,
+    "Close": 2.83,
+    "Volume": "2,542,236,471",
+    "Market Cap": "2,659,185,420"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 20, 2019",
+    "Open": 3.15,
+    "High": 3.18,
+    "Low": 3.09,
+    "Close": 3.1,
+    "Volume": "1,963,218,325",
+    "Market Cap": "2,914,257,086"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 19, 2019",
+    "Open": 3.23,
+    "High": 3.27,
+    "Low": 3.07,
+    "Close": 3.15,
+    "Volume": "2,304,230,672",
+    "Market Cap": "2,965,681,898"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 18, 2019",
+    "Open": 3.42,
+    "High": 3.46,
+    "Low": 3.15,
+    "Close": 3.23,
+    "Volume": "2,272,078,620",
+    "Market Cap": "3,035,722,432"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 17, 2019",
+    "Open": 3.41,
+    "High": 3.47,
+    "Low": 3.37,
+    "Close": 3.42,
+    "Volume": "1,573,105,687",
+    "Market Cap": "3,218,347,132"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 16, 2019",
+    "Open": 3.34,
+    "High": 3.41,
+    "Low": 3.33,
+    "Close": 3.41,
+    "Volume": "1,466,435,139",
+    "Market Cap": "3,203,173,411"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 15, 2019",
+    "Open": 3.42,
+    "High": 3.48,
+    "Low": 3.33,
+    "Close": 3.34,
+    "Volume": "2,058,586,140",
+    "Market Cap": "3,145,080,225"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 14, 2019",
+    "Open": 3.48,
+    "High": 3.49,
+    "Low": 3.39,
+    "Close": 3.42,
+    "Volume": "1,728,331,755",
+    "Market Cap": "3,215,424,716"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 13, 2019",
+    "Open": 3.48,
+    "High": 3.5,
+    "Low": 3.45,
+    "Close": 3.48,
+    "Volume": "1,828,134,783",
+    "Market Cap": "3,271,483,468"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 12, 2019",
+    "Open": 3.45,
+    "High": 3.53,
+    "Low": 3.43,
+    "Close": 3.48,
+    "Volume": "2,404,898,305",
+    "Market Cap": "3,273,174,725"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 11, 2019",
+    "Open": 3.59,
+    "High": 3.6,
+    "Low": 3.44,
+    "Close": 3.45,
+    "Volume": "2,044,553,191",
+    "Market Cap": "3,240,138,787"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 10, 2019",
+    "Open": 3.49,
+    "High": 3.61,
+    "Low": 3.48,
+    "Close": 3.58,
+    "Volume": "2,399,902,626",
+    "Market Cap": "3,368,114,310"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 09, 2019",
+    "Open": 3.42,
+    "High": 3.5,
+    "Low": 3.42,
+    "Close": 3.49,
+    "Volume": "1,937,769,184",
+    "Market Cap": "3,277,616,855"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 08, 2019",
+    "Open": 3.5,
+    "High": 3.55,
+    "Low": 3.39,
+    "Close": 3.42,
+    "Volume": "2,561,508,538",
+    "Market Cap": "3,213,675,374"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 07, 2019",
+    "Open": 3.62,
+    "High": 3.63,
+    "Low": 3.46,
+    "Close": 3.5,
+    "Volume": "2,352,629,788",
+    "Market Cap": "3,283,847,627"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 06, 2019",
+    "Open": 3.62,
+    "High": 3.67,
+    "Low": 3.57,
+    "Close": 3.62,
+    "Volume": "2,422,013,167",
+    "Market Cap": "3,402,662,724"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 05, 2019",
+    "Open": 3.45,
+    "High": 3.66,
+    "Low": 3.41,
+    "Close": 3.62,
+    "Volume": "3,098,696,039",
+    "Market Cap": "3,398,966,741"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 04, 2019",
+    "Open": 3.29,
+    "High": 3.48,
+    "Low": 3.26,
+    "Close": 3.45,
+    "Volume": "2,622,910,762",
+    "Market Cap": "3,234,215,785"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 03, 2019",
+    "Open": 3.33,
+    "High": 3.35,
+    "Low": 3.22,
+    "Close": 3.28,
+    "Volume": "1,747,407,101",
+    "Market Cap": "3,083,125,737"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 02, 2019",
+    "Open": 3.35,
+    "High": 3.39,
+    "Low": 3.31,
+    "Close": 3.33,
+    "Volume": "1,853,095,765",
+    "Market Cap": "3,129,373,031"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Nov 01, 2019",
+    "Open": 3.28,
+    "High": 3.38,
+    "Low": 3.24,
+    "Close": 3.35,
+    "Volume": "2,155,169,872",
+    "Market Cap": "3,147,694,261"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 31, 2019",
+    "Open": 3.3,
+    "High": 3.37,
+    "Low": 3.2,
+    "Close": 3.28,
+    "Volume": "2,214,401,900",
+    "Market Cap": "3,073,979,520"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 30, 2019",
+    "Open": 3.41,
+    "High": 3.41,
+    "Low": 3.22,
+    "Close": 3.3,
+    "Volume": "2,485,786,630",
+    "Market Cap": "3,093,636,013"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 29, 2019",
+    "Open": 3.29,
+    "High": 3.45,
+    "Low": 3.29,
+    "Close": 3.41,
+    "Volume": "2,600,414,930",
+    "Market Cap": "3,196,064,369"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 28, 2019",
+    "Open": 3.34,
+    "High": 3.5,
+    "Low": 3.26,
+    "Close": 3.3,
+    "Volume": "3,132,020,604",
+    "Market Cap": "3,092,271,494"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 27, 2019",
+    "Open": 3.14,
+    "High": 3.44,
+    "Low": 3.09,
+    "Close": 3.34,
+    "Volume": "3,568,565,292",
+    "Market Cap": "3,130,088,275"
+  },
+  {
+    "Currency": "eos",
+    "Date": "Oct 26, 2019",
+    "Open": 3.18,
+    "High": 3.48,
+    "Low": 3.02,
+    "Close": 3.14,
+    "Volume": "4,412,536,644",
+    "Market Cap": "2,940,437,151"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Dec 04, 2019",
+    "Open": 147.92,
+    "High": 150.68,
+    "Low": 145,
+    "Close": 146.75,
+    "Volume": "7,865,937,094",
+    "Market Cap": "15,966,157,442"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Dec 03, 2019",
+    "Open": 149.06,
+    "High": 150.31,
+    "Low": 146,
+    "Close": 147.96,
+    "Volume": "6,204,379,850",
+    "Market Cap": "16,095,928,402"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Dec 02, 2019",
+    "Open": 151.18,
+    "High": 152.12,
+    "Low": 147.61,
+    "Close": 149.06,
+    "Volume": "6,670,561,362",
+    "Market Cap": "16,214,125,032"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Dec 01, 2019",
+    "Open": 152.49,
+    "High": 152.49,
+    "Low": 147.07,
+    "Close": 151.19,
+    "Volume": "7,102,780,298",
+    "Market Cap": "16,443,650,814"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 30, 2019",
+    "Open": 155.29,
+    "High": 156.69,
+    "Low": 151.23,
+    "Close": 152.54,
+    "Volume": "6,565,950,868",
+    "Market Cap": "16,589,132,426"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 29, 2019",
+    "Open": 151.77,
+    "High": 156.85,
+    "Low": 151.46,
+    "Close": 155.3,
+    "Volume": "7,503,898,278",
+    "Market Cap": "16,887,922,522"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 28, 2019",
+    "Open": 153.07,
+    "High": 156.61,
+    "Low": 151.09,
+    "Close": 151.72,
+    "Volume": "7,346,531,960",
+    "Market Cap": "16,496,129,470"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 27, 2019",
+    "Open": 148.4,
+    "High": 154.89,
+    "Low": 143.53,
+    "Close": 153.01,
+    "Volume": "8,778,095,308",
+    "Market Cap": "16,634,910,472"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 26, 2019",
+    "Open": 146.4,
+    "High": 150,
+    "Low": 145.22,
+    "Close": 148.97,
+    "Volume": "7,648,516,297",
+    "Market Cap": "16,193,326,033"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 25, 2019",
+    "Open": 142.7,
+    "High": 150.21,
+    "Low": 133.8,
+    "Close": 146.48,
+    "Volume": "10,962,753,356",
+    "Market Cap": "15,921,080,564"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 24, 2019",
+    "Open": 153.43,
+    "High": 153.97,
+    "Low": 142.83,
+    "Close": 142.83,
+    "Volume": "7,782,769,098",
+    "Market Cap": "15,523,459,920"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 23, 2019",
+    "Open": 150.21,
+    "High": 154.1,
+    "Low": 147.6,
+    "Close": 153.42,
+    "Volume": "8,289,198,330",
+    "Market Cap": "16,671,705,910"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 22, 2019",
+    "Open": 161.51,
+    "High": 163.03,
+    "Low": 142.34,
+    "Close": 150.27,
+    "Volume": "12,020,749,863",
+    "Market Cap": "16,327,536,038"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 21, 2019",
+    "Open": 175.67,
+    "High": 176.21,
+    "Low": 159.37,
+    "Close": 161.46,
+    "Volume": "8,546,371,325",
+    "Market Cap": "17,541,867,626"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 20, 2019",
+    "Open": 177.42,
+    "High": 178.99,
+    "Low": 175.29,
+    "Close": 175.7,
+    "Volume": "7,205,785,149",
+    "Market Cap": "19,086,228,092"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 19, 2019",
+    "Open": 180.5,
+    "High": 182.53,
+    "Low": 175.2,
+    "Close": 177.46,
+    "Volume": "7,536,699,743",
+    "Market Cap": "19,274,876,583"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 18, 2019",
+    "Open": 185.04,
+    "High": 186.93,
+    "Low": 179.18,
+    "Close": 180.56,
+    "Volume": "7,787,662,111",
+    "Market Cap": "19,609,782,345"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 17, 2019",
+    "Open": 183.35,
+    "High": 188.19,
+    "Low": 182.34,
+    "Close": 185.12,
+    "Volume": "7,364,325,471",
+    "Market Cap": "20,102,654,601"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 16, 2019",
+    "Open": 180.5,
+    "High": 184.16,
+    "Low": 179.99,
+    "Close": 183.35,
+    "Volume": "6,789,888,120",
+    "Market Cap": "19,908,020,821"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 15, 2019",
+    "Open": 186.06,
+    "High": 186.25,
+    "Low": 179.38,
+    "Close": 180.52,
+    "Volume": "8,815,678,477",
+    "Market Cap": "19,598,770,324"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 14, 2019",
+    "Open": 188.27,
+    "High": 188.63,
+    "Low": 184.99,
+    "Close": 186,
+    "Volume": "7,872,664,470",
+    "Market Cap": "20,191,206,220"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 13, 2019",
+    "Open": 186.94,
+    "High": 189.33,
+    "Low": 185.94,
+    "Close": 188.26,
+    "Volume": "7,343,173,596",
+    "Market Cap": "20,434,064,781"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 12, 2019",
+    "Open": 185.56,
+    "High": 187.95,
+    "Low": 184.19,
+    "Close": 186.84,
+    "Volume": "7,792,186,666",
+    "Market Cap": "20,278,071,676"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 11, 2019",
+    "Open": 189.5,
+    "High": 190.34,
+    "Low": 185.09,
+    "Close": 185.49,
+    "Volume": "7,877,424,106",
+    "Market Cap": "20,128,792,760"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 10, 2019",
+    "Open": 184.94,
+    "High": 190.92,
+    "Low": 184.69,
+    "Close": 189.48,
+    "Volume": "8,752,784,211",
+    "Market Cap": "20,559,121,065"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 09, 2019",
+    "Open": 184.31,
+    "High": 185.84,
+    "Low": 183.9,
+    "Close": 185.03,
+    "Volume": "7,277,418,704",
+    "Market Cap": "20,074,095,541"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 08, 2019",
+    "Open": 187.92,
+    "High": 188.82,
+    "Low": 182.54,
+    "Close": 184.21,
+    "Volume": "9,176,780,911",
+    "Market Cap": "19,983,058,356"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 07, 2019",
+    "Open": 191.5,
+    "High": 191.86,
+    "Low": 186.57,
+    "Close": 187.98,
+    "Volume": "9,081,247,799",
+    "Market Cap": "20,389,037,934"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 06, 2019",
+    "Open": 189.11,
+    "High": 193.55,
+    "Low": 188.67,
+    "Close": 191.59,
+    "Volume": "10,156,458,684",
+    "Market Cap": "20,778,894,603"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 05, 2019",
+    "Open": 186.31,
+    "High": 191.26,
+    "Low": 184.33,
+    "Close": 189.3,
+    "Volume": "10,024,177,342",
+    "Market Cap": "20,528,094,420"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 04, 2019",
+    "Open": 182.32,
+    "High": 188.02,
+    "Low": 181.82,
+    "Close": 186.36,
+    "Volume": "10,551,917,945",
+    "Market Cap": "20,205,859,402"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 03, 2019",
+    "Open": 183.99,
+    "High": 185.02,
+    "Low": 179.82,
+    "Close": 182.43,
+    "Volume": "8,760,247,744",
+    "Market Cap": "19,777,347,724"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 02, 2019",
+    "Open": 184.02,
+    "High": 185.71,
+    "Low": 182.8,
+    "Close": 183.93,
+    "Volume": "8,087,991,830",
+    "Market Cap": "19,937,622,287"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Nov 01, 2019",
+    "Open": 183.8,
+    "High": 185.06,
+    "Low": 181.09,
+    "Close": 183.97,
+    "Volume": "9,145,611,130",
+    "Market Cap": "19,940,014,311"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 31, 2019",
+    "Open": 184.8,
+    "High": 188.75,
+    "Low": 180.07,
+    "Close": 183.97,
+    "Volume": "9,607,939,606",
+    "Market Cap": "19,937,256,794"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 30, 2019",
+    "Open": 190.34,
+    "High": 191.11,
+    "Low": 181.55,
+    "Close": 184.69,
+    "Volume": "10,484,902,804",
+    "Market Cap": "20,013,431,227"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 29, 2019",
+    "Open": 182.67,
+    "High": 191.85,
+    "Low": 182.36,
+    "Close": 190.34,
+    "Volume": "10,622,761,958",
+    "Market Cap": "20,623,205,054"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 28, 2019",
+    "Open": 184.4,
+    "High": 187.88,
+    "Low": 180.25,
+    "Close": 182.66,
+    "Volume": "10,406,734,124",
+    "Market Cap": "19,788,729,316"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 27, 2019",
+    "Open": 179.93,
+    "High": 188.16,
+    "Low": 177.68,
+    "Close": 184.24,
+    "Volume": "10,815,941,952",
+    "Market Cap": "19,957,408,085"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 26, 2019",
+    "Open": 181.67,
+    "High": 195.94,
+    "Low": 176.13,
+    "Close": 179.84,
+    "Volume": "13,831,784,986",
+    "Market Cap": "19,477,741,705"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 25, 2019",
+    "Open": 162.19,
+    "High": 183,
+    "Low": 161.97,
+    "Close": 181.52,
+    "Volume": "10,358,594,018",
+    "Market Cap": "19,658,140,299"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 24, 2019",
+    "Open": 162.51,
+    "High": 164.15,
+    "Low": 160.89,
+    "Close": 162.17,
+    "Volume": "7,300,917,537",
+    "Market Cap": "17,560,021,218"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 23, 2019",
+    "Open": 172.26,
+    "High": 172.42,
+    "Low": 157.46,
+    "Close": 162.4,
+    "Volume": "9,624,925,919",
+    "Market Cap": "17,583,244,177"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 22, 2019",
+    "Open": 174.91,
+    "High": 175.65,
+    "Low": 172.27,
+    "Close": 172.3,
+    "Volume": "6,990,951,966",
+    "Market Cap": "18,652,588,580"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 21, 2019",
+    "Open": 175.52,
+    "High": 177.74,
+    "Low": 173.29,
+    "Close": 174.92,
+    "Volume": "6,815,820,627",
+    "Market Cap": "18,933,882,640"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 20, 2019",
+    "Open": 172.97,
+    "High": 176.72,
+    "Low": 171.21,
+    "Close": 175.53,
+    "Volume": "6,801,091,120",
+    "Market Cap": "18,997,957,789"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 19, 2019",
+    "Open": 173.65,
+    "High": 175.61,
+    "Low": 172.22,
+    "Close": 172.91,
+    "Volume": "6,551,453,871",
+    "Market Cap": "18,711,940,303"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 18, 2019",
+    "Open": 177.99,
+    "High": 178.18,
+    "Low": 171.01,
+    "Close": 173.62,
+    "Volume": "7,566,257,807",
+    "Market Cap": "18,786,275,035"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 17, 2019",
+    "Open": 175.91,
+    "High": 178.9,
+    "Low": 174.57,
+    "Close": 178.03,
+    "Volume": "6,737,237,423",
+    "Market Cap": "19,260,755,682"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 16, 2019",
+    "Open": 181.34,
+    "High": 181.67,
+    "Low": 174.06,
+    "Close": 176.01,
+    "Volume": "7,691,244,590",
+    "Market Cap": "19,040,429,002"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 15, 2019",
+    "Open": 186.98,
+    "High": 187.76,
+    "Low": 179.46,
+    "Close": 181.41,
+    "Volume": "7,731,456,579",
+    "Market Cap": "19,621,350,993"
+  },
+  {
+    "Currency": "ethereum",
+    "Date": "Oct 14, 2019",
+    "Open": 182.03,
+    "High": 187.3,
+    "Low": 181.66,
+    "Close": 186.96,
+    "Volume": "7,276,520,699",
+    "Market Cap": "20,219,637,357"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Dec 04, 2019",
+    "Open": 45.4,
+    "High": 46.54,
+    "Low": 44.58,
+    "Close": 45.19,
+    "Volume": "2,951,880,019",
+    "Market Cap": "2,882,011,362"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Dec 03, 2019",
+    "Open": 45.78,
+    "High": 46.62,
+    "Low": 44.76,
+    "Close": 45.38,
+    "Volume": "2,557,212,174",
+    "Market Cap": "2,893,726,010"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Dec 02, 2019",
+    "Open": 47.65,
+    "High": 47.81,
+    "Low": 45.32,
+    "Close": 45.82,
+    "Volume": "2,680,452,035",
+    "Market Cap": "2,921,144,389"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Dec 01, 2019",
+    "Open": 47.46,
+    "High": 48.3,
+    "Low": 46.24,
+    "Close": 47.71,
+    "Volume": "2,781,413,686",
+    "Market Cap": "3,041,545,709"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 30, 2019",
+    "Open": 48.91,
+    "High": 49.28,
+    "Low": 47.09,
+    "Close": 47.48,
+    "Volume": "2,678,481,167",
+    "Market Cap": "3,026,175,357"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 29, 2019",
+    "Open": 47.09,
+    "High": 49.32,
+    "Low": 47.09,
+    "Close": 48.88,
+    "Volume": "2,944,492,393",
+    "Market Cap": "3,115,330,867"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 28, 2019",
+    "Open": 48,
+    "High": 48.55,
+    "Low": 47.02,
+    "Close": 47.06,
+    "Volume": "2,662,459,127",
+    "Market Cap": "2,998,875,250"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 27, 2019",
+    "Open": 47.16,
+    "High": 48.52,
+    "Low": 45.44,
+    "Close": 48.01,
+    "Volume": "2,979,663,352",
+    "Market Cap": "3,059,223,170"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 26, 2019",
+    "Open": 45.81,
+    "High": 47.54,
+    "Low": 45.66,
+    "Close": 47.27,
+    "Volume": "2,659,405,400",
+    "Market Cap": "3,012,041,642"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 25, 2019",
+    "Open": 44.77,
+    "High": 47.27,
+    "Low": 42.96,
+    "Close": 45.83,
+    "Volume": "3,408,224,795",
+    "Market Cap": "2,919,784,838"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 24, 2019",
+    "Open": 48.71,
+    "High": 48.78,
+    "Low": 44.73,
+    "Close": 44.73,
+    "Volume": "2,709,705,879",
+    "Market Cap": "2,849,656,912"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 23, 2019",
+    "Open": 47.62,
+    "High": 48.71,
+    "Low": 46.78,
+    "Close": 48.71,
+    "Volume": "2,746,902,870",
+    "Market Cap": "3,104,760,987"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 22, 2019",
+    "Open": 50.88,
+    "High": 51.39,
+    "Low": 44.89,
+    "Close": 47.62,
+    "Volume": "3,734,545,939",
+    "Market Cap": "3,034,882,008"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 21, 2019",
+    "Open": 55.28,
+    "High": 55.44,
+    "Low": 50.15,
+    "Close": 50.88,
+    "Volume": "3,158,748,317",
+    "Market Cap": "3,242,806,030"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 20, 2019",
+    "Open": 55.63,
+    "High": 56.66,
+    "Low": 55.09,
+    "Close": 55.29,
+    "Volume": "2,858,714,058",
+    "Market Cap": "3,523,320,531"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 19, 2019",
+    "Open": 56.8,
+    "High": 57.59,
+    "Low": 54.94,
+    "Close": 55.62,
+    "Volume": "3,030,389,859",
+    "Market Cap": "3,544,160,660"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 18, 2019",
+    "Open": 59.57,
+    "High": 60.08,
+    "Low": 55.86,
+    "Close": 56.8,
+    "Volume": "3,131,873,188",
+    "Market Cap": "3,618,749,968"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 17, 2019",
+    "Open": 58.6,
+    "High": 60.67,
+    "Low": 58.34,
+    "Close": 59.57,
+    "Volume": "3,215,100,478",
+    "Market Cap": "3,794,900,734"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 16, 2019",
+    "Open": 57.79,
+    "High": 59.18,
+    "Low": 57.47,
+    "Close": 58.57,
+    "Volume": "2,841,793,395",
+    "Market Cap": "3,730,285,758"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 15, 2019",
+    "Open": 59.48,
+    "High": 60.47,
+    "Low": 57.54,
+    "Close": 57.81,
+    "Volume": "3,195,878,562",
+    "Market Cap": "3,681,894,624"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 14, 2019",
+    "Open": 61.08,
+    "High": 61.22,
+    "Low": 59.42,
+    "Close": 59.43,
+    "Volume": "3,040,274,519",
+    "Market Cap": "3,784,543,703"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 13, 2019",
+    "Open": 61.37,
+    "High": 62.06,
+    "Low": 60.87,
+    "Close": 61.11,
+    "Volume": "3,094,050,321",
+    "Market Cap": "3,891,188,361"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 12, 2019",
+    "Open": 61.93,
+    "High": 62.47,
+    "Low": 60.69,
+    "Close": 61.34,
+    "Volume": "3,333,604,208",
+    "Market Cap": "3,905,317,178"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 11, 2019",
+    "Open": 63.78,
+    "High": 64.34,
+    "Low": 61.37,
+    "Close": 61.9,
+    "Volume": "3,033,016,472",
+    "Market Cap": "3,940,458,193"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 10, 2019",
+    "Open": 61.9,
+    "High": 64.6,
+    "Low": 61.81,
+    "Close": 63.84,
+    "Volume": "3,611,586,094",
+    "Market Cap": "4,063,643,936"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 09, 2019",
+    "Open": 60.49,
+    "High": 62.15,
+    "Low": 60.38,
+    "Close": 61.95,
+    "Volume": "2,849,228,741",
+    "Market Cap": "3,943,126,748"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 08, 2019",
+    "Open": 61.88,
+    "High": 62.45,
+    "Low": 59.51,
+    "Close": 60.53,
+    "Volume": "3,414,910,991",
+    "Market Cap": "3,852,007,191"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 07, 2019",
+    "Open": 64.24,
+    "High": 64.41,
+    "Low": 61.08,
+    "Close": 61.84,
+    "Volume": "3,557,191,963",
+    "Market Cap": "3,935,124,153"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 06, 2019",
+    "Open": 63.35,
+    "High": 64.27,
+    "Low": 62.96,
+    "Close": 64.27,
+    "Volume": "3,755,244,863",
+    "Market Cap": "4,088,991,803"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 05, 2019",
+    "Open": 61.58,
+    "High": 64,
+    "Low": 61.32,
+    "Close": 63.3,
+    "Volume": "4,725,921,529",
+    "Market Cap": "4,027,051,778"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 04, 2019",
+    "Open": 58.6,
+    "High": 62.18,
+    "Low": 58.38,
+    "Close": 61.57,
+    "Volume": "4,164,854,559",
+    "Market Cap": "3,916,584,191"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 03, 2019",
+    "Open": 58.59,
+    "High": 58.97,
+    "Low": 57.64,
+    "Close": 58.63,
+    "Volume": "3,259,935,586",
+    "Market Cap": "3,728,676,102"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 02, 2019",
+    "Open": 58.58,
+    "High": 59.33,
+    "Low": 58.22,
+    "Close": 58.6,
+    "Volume": "3,353,942,166",
+    "Market Cap": "3,726,483,415"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Nov 01, 2019",
+    "Open": 58.75,
+    "High": 58.75,
+    "Low": 57.72,
+    "Close": 58.58,
+    "Volume": "3,425,154,368",
+    "Market Cap": "3,725,245,520"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 31, 2019",
+    "Open": 58.36,
+    "High": 60.08,
+    "Low": 57.69,
+    "Close": 58.78,
+    "Volume": "3,165,801,278",
+    "Market Cap": "3,737,406,895"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 30, 2019",
+    "Open": 59.87,
+    "High": 60.89,
+    "Low": 57.6,
+    "Close": 58.42,
+    "Volume": "3,387,114,095",
+    "Market Cap": "3,714,109,861"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 29, 2019",
+    "Open": 58.05,
+    "High": 60.66,
+    "Low": 58.05,
+    "Close": 59.87,
+    "Volume": "3,582,210,705",
+    "Market Cap": "3,805,805,251"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 28, 2019",
+    "Open": 59.92,
+    "High": 61.91,
+    "Low": 57.67,
+    "Close": 58.13,
+    "Volume": "3,793,848,576",
+    "Market Cap": "3,694,652,651"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 27, 2019",
+    "Open": 56.8,
+    "High": 61.87,
+    "Low": 55.92,
+    "Close": 59.91,
+    "Volume": "4,218,140,032",
+    "Market Cap": "3,807,830,063"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 26, 2019",
+    "Open": 56.95,
+    "High": 61.73,
+    "Low": 54.73,
+    "Close": 56.78,
+    "Volume": "5,234,627,157",
+    "Market Cap": "3,607,985,867"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 25, 2019",
+    "Open": 50.11,
+    "High": 57.32,
+    "Low": 49.61,
+    "Close": 56.94,
+    "Volume": "3,770,902,916",
+    "Market Cap": "3,618,037,380"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 24, 2019",
+    "Open": 49.68,
+    "High": 50.47,
+    "Low": 49.02,
+    "Close": 50.07,
+    "Volume": "2,650,862,714",
+    "Market Cap": "3,181,078,150"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 23, 2019",
+    "Open": 53.75,
+    "High": 53.82,
+    "Low": 48.5,
+    "Close": 49.63,
+    "Volume": "3,077,488,277",
+    "Market Cap": "3,152,820,838"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 22, 2019",
+    "Open": 54.93,
+    "High": 55.29,
+    "Low": 53.64,
+    "Close": 53.74,
+    "Volume": "2,490,194,232",
+    "Market Cap": "3,413,955,637"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 21, 2019",
+    "Open": 54.92,
+    "High": 55.56,
+    "Low": 54.02,
+    "Close": 54.94,
+    "Volume": "2,727,253,951",
+    "Market Cap": "3,489,419,289"
+  },
+  {
+    "Currency": "litecoin",
+    "Date": "Oct 20, 2019",
+    "Open": 54.06,
+    "High": 55.44,
+    "Low": 53.22,
+    "Close": 54.93,
+    "Volume": "2,612,273,453",
+    "Market Cap": "3,488,800,281"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Dec 04, 2019",
+    "Open": 0.055917,
+    "High": 0.056422,
+    "Low": 0.054416,
+    "Close": 0.055419,
+    "Volume": "207,789,246",
+    "Market Cap": "1,111,416,307"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Dec 03, 2019",
+    "Open": 0.056042,
+    "High": 0.056821,
+    "Low": 0.055417,
+    "Close": 0.05598,
+    "Volume": "150,835,452",
+    "Market Cap": "1,122,669,946"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Dec 02, 2019",
+    "Open": 0.058098,
+    "High": 0.058214,
+    "Low": 0.055986,
+    "Close": 0.056078,
+    "Volume": "204,095,722",
+    "Market Cap": "1,124,621,901"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Dec 01, 2019",
+    "Open": 0.059751,
+    "High": 0.059877,
+    "Low": 0.05654,
+    "Close": 0.058082,
+    "Volume": "214,999,370",
+    "Market Cap": "1,164,817,487"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 30, 2019",
+    "Open": 0.059306,
+    "High": 0.060415,
+    "Low": 0.057283,
+    "Close": 0.059641,
+    "Volume": "228,259,886",
+    "Market Cap": "1,196,086,467"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 29, 2019",
+    "Open": 0.058212,
+    "High": 0.060932,
+    "Low": 0.058165,
+    "Close": 0.059152,
+    "Volume": "241,666,196",
+    "Market Cap": "1,186,271,902"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 28, 2019",
+    "Open": 0.059208,
+    "High": 0.060486,
+    "Low": 0.058179,
+    "Close": 0.058225,
+    "Volume": "224,143,848",
+    "Market Cap": "1,167,681,753"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 27, 2019",
+    "Open": 0.058393,
+    "High": 0.059952,
+    "Low": 0.056166,
+    "Close": 0.059057,
+    "Volume": "260,781,107",
+    "Market Cap": "1,184,377,699"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 26, 2019",
+    "Open": 0.057542,
+    "High": 0.059103,
+    "Low": 0.05652,
+    "Close": 0.058553,
+    "Volume": "218,983,844",
+    "Market Cap": "1,174,266,799"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 25, 2019",
+    "Open": 0.056791,
+    "High": 0.059389,
+    "Low": 0.05375,
+    "Close": 0.057595,
+    "Volume": "548,798,088",
+    "Market Cap": "1,155,059,103"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 24, 2019",
+    "Open": 0.060602,
+    "High": 0.061783,
+    "Low": 0.056881,
+    "Close": 0.056881,
+    "Volume": "795,594,528",
+    "Market Cap": "1,140,743,320"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 23, 2019",
+    "Open": 0.059405,
+    "High": 0.061716,
+    "Low": 0.057753,
+    "Close": 0.060364,
+    "Volume": "262,945,614",
+    "Market Cap": "1,210,579,252"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 22, 2019",
+    "Open": 0.061737,
+    "High": 0.061868,
+    "Low": 0.056237,
+    "Close": 0.059502,
+    "Volume": "304,545,334",
+    "Market Cap": "1,193,303,118"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 21, 2019",
+    "Open": 0.065522,
+    "High": 0.065701,
+    "Low": 0.061047,
+    "Close": 0.061683,
+    "Volume": "251,644,441",
+    "Market Cap": "1,237,034,117"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 20, 2019",
+    "Open": 0.065691,
+    "High": 0.06632,
+    "Low": 0.06454,
+    "Close": 0.065502,
+    "Volume": "219,882,275",
+    "Market Cap": "1,313,627,943"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 19, 2019",
+    "Open": 0.068291,
+    "High": 0.068679,
+    "Low": 0.06481,
+    "Close": 0.065751,
+    "Volume": "287,651,893",
+    "Market Cap": "1,318,630,467"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 18, 2019",
+    "Open": 0.072133,
+    "High": 0.072261,
+    "Low": 0.066962,
+    "Close": 0.068304,
+    "Volume": "245,433,022",
+    "Market Cap": "1,369,817,366"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 17, 2019",
+    "Open": 0.071848,
+    "High": 0.073095,
+    "Low": 0.071784,
+    "Close": 0.072137,
+    "Volume": "197,097,974",
+    "Market Cap": "1,446,685,558"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 16, 2019",
+    "Open": 0.072347,
+    "High": 0.072805,
+    "Low": 0.071748,
+    "Close": 0.071906,
+    "Volume": "173,395,847",
+    "Market Cap": "1,442,049,711"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 15, 2019",
+    "Open": 0.074816,
+    "High": 0.074972,
+    "Low": 0.071935,
+    "Close": 0.072335,
+    "Volume": "222,062,024",
+    "Market Cap": "1,450,653,587"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 14, 2019",
+    "Open": 0.076506,
+    "High": 0.076611,
+    "Low": 0.074027,
+    "Close": 0.07474,
+    "Volume": "217,039,030",
+    "Market Cap": "1,498,902,353"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 13, 2019",
+    "Open": 0.077092,
+    "High": 0.077628,
+    "Low": 0.07618,
+    "Close": 0.076576,
+    "Volume": "240,329,082",
+    "Market Cap": "1,535,722,377"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 12, 2019",
+    "Open": 0.079813,
+    "High": 0.082018,
+    "Low": 0.075886,
+    "Close": 0.077072,
+    "Volume": "359,731,187",
+    "Market Cap": "1,545,652,295"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 11, 2019",
+    "Open": 0.078234,
+    "High": 0.080633,
+    "Low": 0.076396,
+    "Close": 0.079809,
+    "Volume": "290,695,867",
+    "Market Cap": "1,600,544,208"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 10, 2019",
+    "Open": 0.072877,
+    "High": 0.079768,
+    "Low": 0.072733,
+    "Close": 0.078228,
+    "Volume": "343,258,930",
+    "Market Cap": "1,568,851,587"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 09, 2019",
+    "Open": 0.071845,
+    "High": 0.073439,
+    "Low": 0.07162,
+    "Close": 0.072812,
+    "Volume": "187,035,481",
+    "Market Cap": "1,460,226,718"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 08, 2019",
+    "Open": 0.075006,
+    "High": 0.076303,
+    "Low": 0.07055,
+    "Close": 0.071888,
+    "Volume": "271,749,982",
+    "Market Cap": "1,441,694,136"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 07, 2019",
+    "Open": 0.078343,
+    "High": 0.078494,
+    "Low": 0.074204,
+    "Close": 0.075014,
+    "Volume": "332,631,177",
+    "Market Cap": "1,504,398,663"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 06, 2019",
+    "Open": 0.082237,
+    "High": 0.08319,
+    "Low": 0.077835,
+    "Close": 0.078435,
+    "Volume": "352,059,614",
+    "Market Cap": "1,573,003,648"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 05, 2019",
+    "Open": 0.076817,
+    "High": 0.085214,
+    "Low": 0.076808,
+    "Close": 0.082164,
+    "Volume": "762,923,850",
+    "Market Cap": "1,647,781,065"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 04, 2019",
+    "Open": 0.069165,
+    "High": 0.07639,
+    "Low": 0.067937,
+    "Close": 0.07639,
+    "Volume": "347,400,349",
+    "Market Cap": "1,531,981,226"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 03, 2019",
+    "Open": 0.071283,
+    "High": 0.071871,
+    "Low": 0.068081,
+    "Close": 0.069091,
+    "Volume": "310,422,869",
+    "Market Cap": "1,385,608,526"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 02, 2019",
+    "Open": 0.069217,
+    "High": 0.071289,
+    "Low": 0.069216,
+    "Close": 0.071264,
+    "Volume": "287,438,284",
+    "Market Cap": "1,429,192,254"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Nov 01, 2019",
+    "Open": 0.065189,
+    "High": 0.071221,
+    "Low": 0.064798,
+    "Close": 0.069231,
+    "Volume": "412,594,573",
+    "Market Cap": "1,388,418,168"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 31, 2019",
+    "Open": 0.064612,
+    "High": 0.065444,
+    "Low": 0.062958,
+    "Close": 0.065215,
+    "Volume": "279,328,071",
+    "Market Cap": "1,307,869,766"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 30, 2019",
+    "Open": 0.066276,
+    "High": 0.066611,
+    "Low": 0.063378,
+    "Close": 0.064568,
+    "Volume": "271,281,036",
+    "Market Cap": "1,294,901,834"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 29, 2019",
+    "Open": 0.064768,
+    "High": 0.068255,
+    "Low": 0.064701,
+    "Close": 0.066185,
+    "Volume": "279,077,969",
+    "Market Cap": "1,327,327,934"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 28, 2019",
+    "Open": 0.064549,
+    "High": 0.067163,
+    "Low": 0.064312,
+    "Close": 0.064778,
+    "Volume": "325,857,618",
+    "Market Cap": "1,298,131,301"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 27, 2019",
+    "Open": 0.062585,
+    "High": 0.064588,
+    "Low": 0.061923,
+    "Close": 0.064513,
+    "Volume": "287,822,040",
+    "Market Cap": "1,292,824,227"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 26, 2019",
+    "Open": 0.06374,
+    "High": 0.066609,
+    "Low": 0.062198,
+    "Close": 0.062557,
+    "Volume": "347,428,869",
+    "Market Cap": "1,253,637,953"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 25, 2019",
+    "Open": 0.060642,
+    "High": 0.064598,
+    "Low": 0.060078,
+    "Close": 0.063761,
+    "Volume": "302,338,874",
+    "Market Cap": "1,277,752,865"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 24, 2019",
+    "Open": 0.060058,
+    "High": 0.061739,
+    "Low": 0.059206,
+    "Close": 0.060612,
+    "Volume": "235,695,883",
+    "Market Cap": "1,214,643,198"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 23, 2019",
+    "Open": 0.062935,
+    "High": 0.063606,
+    "Low": 0.058735,
+    "Close": 0.059984,
+    "Volume": "257,731,071",
+    "Market Cap": "1,201,815,663"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 22, 2019",
+    "Open": 0.064045,
+    "High": 0.064512,
+    "Low": 0.062745,
+    "Close": 0.062811,
+    "Volume": "191,351,126",
+    "Market Cap": "1,258,466,973"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 21, 2019",
+    "Open": 0.06326,
+    "High": 0.064159,
+    "Low": 0.063026,
+    "Close": 0.063975,
+    "Volume": "189,287,650",
+    "Market Cap": "1,281,740,024"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 20, 2019",
+    "Open": 0.063102,
+    "High": 0.063676,
+    "Low": 0.062539,
+    "Close": 0.063247,
+    "Volume": "228,457,502",
+    "Market Cap": "1,267,150,236"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 19, 2019",
+    "Open": 0.063758,
+    "High": 0.063817,
+    "Low": 0.062863,
+    "Close": 0.06309,
+    "Volume": "212,225,225",
+    "Market Cap": "1,264,000,391"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 18, 2019",
+    "Open": 0.064537,
+    "High": 0.064606,
+    "Low": 0.062393,
+    "Close": 0.063717,
+    "Volume": "258,071,462",
+    "Market Cap": "1,276,553,895"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 17, 2019",
+    "Open": 0.06243,
+    "High": 0.064572,
+    "Low": 0.061928,
+    "Close": 0.064547,
+    "Volume": "258,080,003",
+    "Market Cap": "1,293,197,546"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 16, 2019",
+    "Open": 0.064319,
+    "High": 0.064837,
+    "Low": 0.061611,
+    "Close": 0.062401,
+    "Volume": "234,805,479",
+    "Market Cap": "1,250,201,473"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 15, 2019",
+    "Open": 0.064919,
+    "High": 0.065527,
+    "Low": 0.063154,
+    "Close": 0.064264,
+    "Volume": "231,975,480",
+    "Market Cap": "1,287,400,269"
+  },
+  {
+    "Currency": "stellar",
+    "Date": "Oct 14, 2019",
+    "Open": 0.060187,
+    "High": 0.064944,
+    "Low": 0.060185,
+    "Close": 0.064925,
+    "Volume": "212,625,324",
+    "Market Cap": "1,300,593,743"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Dec 04, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.981153,
+    "Close": 1.01,
+    "Volume": "24,761,899,935",
+    "Market Cap": "4,140,656,482"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Dec 03, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.991071,
+    "Close": 1,
+    "Volume": "16,691,088,420",
+    "Market Cap": "4,120,924,295"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Dec 02, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.991988,
+    "Close": 1,
+    "Volume": "19,093,390,526",
+    "Market Cap": "4,114,951,368"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Dec 01, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.99508,
+    "Close": 1,
+    "Volume": "21,027,847,332",
+    "Market Cap": "4,118,235,661"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 30, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.998375,
+    "Close": 1,
+    "Volume": "19,145,198,648",
+    "Market Cap": "4,115,041,871"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 29, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.992586,
+    "Close": 1,
+    "Volume": "22,304,763,156",
+    "Market Cap": "4,126,616,332"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 28, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 1,
+    "Close": 1,
+    "Volume": "21,502,793,846",
+    "Market Cap": "4,124,805,294"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 27, 2019",
+    "Open": 1,
+    "High": 1.03,
+    "Low": 0.981392,
+    "Close": 1.01,
+    "Volume": "27,416,693,309",
+    "Market Cap": "4,128,694,013"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 26, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.995267,
+    "Close": 1.01,
+    "Volume": "23,545,460,689",
+    "Market Cap": "4,148,191,320"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 25, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 0.993995,
+    "Close": 1,
+    "Volume": "33,648,447,519",
+    "Market Cap": "4,120,837,393"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 24, 2019",
+    "Open": 1.01,
+    "High": 1.03,
+    "Low": 1,
+    "Close": 1.02,
+    "Volume": "25,990,545,761",
+    "Market Cap": "4,180,011,937"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 23, 2019",
+    "Open": 1,
+    "High": 1.03,
+    "Low": 0.998878,
+    "Close": 1.01,
+    "Volume": "24,605,070,720",
+    "Market Cap": "4,161,983,862"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 22, 2019",
+    "Open": 1,
+    "High": 1.02,
+    "Low": 0.991656,
+    "Close": 1,
+    "Volume": "39,068,899,485",
+    "Market Cap": "4,120,554,484"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 21, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 0.998885,
+    "Close": 1,
+    "Volume": "26,004,738,831",
+    "Market Cap": "4,109,731,631"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 20, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 1,
+    "Close": 1.01,
+    "Volume": "22,255,938,426",
+    "Market Cap": "4,130,393,647"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 19, 2019",
+    "Open": 1.01,
+    "High": 1.03,
+    "Low": 1,
+    "Close": 1.01,
+    "Volume": "23,104,090,327",
+    "Market Cap": "4,144,883,422"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 18, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 1,
+    "Close": 1.01,
+    "Volume": "24,102,161,964",
+    "Market Cap": "4,157,375,252"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 17, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 1,
+    "Close": 1.01,
+    "Volume": "20,418,489,157",
+    "Market Cap": "4,142,844,476"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 16, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 1,
+    "Close": 1.01,
+    "Volume": "18,225,904,912",
+    "Market Cap": "4,135,759,004"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 15, 2019",
+    "Open": 1.01,
+    "High": 1.02,
+    "Low": 0.995398,
+    "Close": 1,
+    "Volume": "25,291,395,573",
+    "Market Cap": "4,113,666,666"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 14, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.998471,
+    "Close": 1.01,
+    "Volume": "21,911,169,228",
+    "Market Cap": "4,130,975,243"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 13, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.999717,
+    "Close": 1,
+    "Volume": "20,071,939,197",
+    "Market Cap": "4,121,088,708"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 12, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.997774,
+    "Close": 1,
+    "Volume": "23,449,537,112",
+    "Market Cap": "4,113,788,114"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 11, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.997627,
+    "Close": 1,
+    "Volume": "23,739,145,075",
+    "Market Cap": "4,118,061,437"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 10, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.988144,
+    "Close": 1,
+    "Volume": "24,552,202,767",
+    "Market Cap": "4,119,110,881"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 09, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.998939,
+    "Close": 1,
+    "Volume": "20,459,420,156",
+    "Market Cap": "4,108,822,609"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 08, 2019",
+    "Open": 1.01,
+    "High": 1.01,
+    "Low": 0.998418,
+    "Close": 1,
+    "Volume": "28,749,114,086",
+    "Market Cap": "4,118,305,231"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 07, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.997957,
+    "Close": 1.01,
+    "Volume": "27,694,410,589",
+    "Market Cap": "4,131,592,434"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 06, 2019",
+    "Open": 1.01,
+    "High": 1.01,
+    "Low": 1,
+    "Close": 1,
+    "Volume": "28,578,448,466",
+    "Market Cap": "4,120,504,628"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 05, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.996082,
+    "Close": 1,
+    "Volume": "30,721,581,637",
+    "Market Cap": "4,127,530,034"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 04, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.99369,
+    "Close": 1,
+    "Volume": "30,710,349,697",
+    "Market Cap": "4,125,883,665"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 03, 2019",
+    "Open": 1.01,
+    "High": 1.01,
+    "Low": 0.998527,
+    "Close": 1,
+    "Volume": "24,597,499,287",
+    "Market Cap": "4,126,314,409"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 02, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.997896,
+    "Close": 1,
+    "Volume": "23,973,071,925",
+    "Market Cap": "4,127,588,892"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Nov 01, 2019",
+    "Open": 1.01,
+    "High": 1.01,
+    "Low": 1,
+    "Close": 1,
+    "Volume": "27,864,589,885",
+    "Market Cap": "4,124,890,871"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 31, 2019",
+    "Open": 1.01,
+    "High": 1.03,
+    "Low": 0.998004,
+    "Close": 1.01,
+    "Volume": "30,727,310,848",
+    "Market Cap": "4,134,412,347"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 30, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.99934,
+    "Close": 1.01,
+    "Volume": "32,807,890,269",
+    "Market Cap": "4,132,087,645"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 29, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.992977,
+    "Close": 1,
+    "Volume": "35,047,512,730",
+    "Market Cap": "4,116,816,180"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 28, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.978821,
+    "Close": 1,
+    "Volume": "38,665,694,771",
+    "Market Cap": "4,119,771,724"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 27, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.97702,
+    "Close": 1,
+    "Volume": "40,519,447,549",
+    "Market Cap": "4,125,469,824"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 26, 2019",
+    "Open": 1,
+    "High": 1.01,
+    "Low": 0.969353,
+    "Close": 1,
+    "Volume": "53,509,128,965",
+    "Market Cap": "4,114,596,274"
+  },
+  {
+    "Currency": "tether",
+    "Date": "Oct 25, 2019",
+    "Open": 1.01,
+    "High": 1.01,
+    "Low": 0.976078,
+    "Close": 1,
+    "Volume": "37,383,241,390",
+    "Market Cap": "4,116,967,974"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Dec 04, 2019",
+    "Open": 0.219824,
+    "High": 0.22177,
+    "Low": 0.212603,
+    "Close": 0.216348,
+    "Volume": "1,427,312,577",
+    "Market Cap": "9,364,745,688"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Dec 03, 2019",
+    "Open": 0.219516,
+    "High": 0.223179,
+    "Low": 0.216675,
+    "Close": 0.21987,
+    "Volume": "1,017,648,495",
+    "Market Cap": "9,517,202,026"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Dec 02, 2019",
+    "Open": 0.225386,
+    "High": 0.227203,
+    "Low": 0.217283,
+    "Close": 0.219581,
+    "Volume": "1,187,513,777",
+    "Market Cap": "9,507,818,760"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Dec 01, 2019",
+    "Open": 0.226466,
+    "High": 0.226525,
+    "Low": 0.220253,
+    "Close": 0.225333,
+    "Volume": "1,176,237,060",
+    "Market Cap": "9,756,884,341"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 30, 2019",
+    "Open": 0.230232,
+    "High": 0.233615,
+    "Low": 0.224546,
+    "Close": 0.226474,
+    "Volume": "1,160,032,624",
+    "Market Cap": "9,806,315,573"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 29, 2019",
+    "Open": 0.224623,
+    "High": 0.231636,
+    "Low": 0.224129,
+    "Close": 0.230217,
+    "Volume": "1,325,761,774",
+    "Market Cap": "9,968,382,707"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 28, 2019",
+    "Open": 0.225221,
+    "High": 0.231131,
+    "Low": 0.224198,
+    "Close": 0.22457,
+    "Volume": "1,244,175,231",
+    "Market Cap": "9,723,838,882"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 27, 2019",
+    "Open": 0.221845,
+    "High": 0.228498,
+    "Low": 0.216199,
+    "Close": 0.225081,
+    "Volume": "1,608,881,984",
+    "Market Cap": "9,745,970,911"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 26, 2019",
+    "Open": 0.218464,
+    "High": 0.223212,
+    "Low": 0.214957,
+    "Close": 0.222145,
+    "Volume": "1,322,723,640",
+    "Market Cap": "9,618,843,673"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 25, 2019",
+    "Open": 0.222832,
+    "High": 0.225923,
+    "Low": 0.207013,
+    "Close": 0.218622,
+    "Volume": "9,415,068,271",
+    "Market Cap": "9,466,286,656"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 24, 2019",
+    "Open": 0.236227,
+    "High": 0.236373,
+    "Low": 0.223184,
+    "Close": 0.223184,
+    "Volume": "2,932,397,174",
+    "Market Cap": "9,663,857,831"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 23, 2019",
+    "Open": 0.231574,
+    "High": 0.236188,
+    "Low": 0.227707,
+    "Close": 0.236188,
+    "Volume": "1,480,512,363",
+    "Market Cap": "10,226,933,084"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 22, 2019",
+    "Open": 0.243775,
+    "High": 0.246417,
+    "Low": 0.225687,
+    "Close": 0.2316,
+    "Volume": "2,012,230,945",
+    "Market Cap": "10,028,238,451"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 21, 2019",
+    "Open": 0.251316,
+    "High": 0.253512,
+    "Low": 0.240784,
+    "Close": 0.243766,
+    "Volume": "1,586,333,624",
+    "Market Cap": "10,555,043,277"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 20, 2019",
+    "Open": 0.256545,
+    "High": 0.259139,
+    "Low": 0.250331,
+    "Close": 0.251364,
+    "Volume": "1,319,069,498",
+    "Market Cap": "10,884,017,518"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 19, 2019",
+    "Open": 0.255646,
+    "High": 0.258563,
+    "Low": 0.246971,
+    "Close": 0.2565,
+    "Volume": "1,420,685,334",
+    "Market Cap": "11,106,437,807"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 18, 2019",
+    "Open": 0.265137,
+    "High": 0.265514,
+    "Low": 0.249842,
+    "Close": 0.255653,
+    "Volume": "1,452,996,115",
+    "Market Cap": "11,069,403,326"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 17, 2019",
+    "Open": 0.264009,
+    "High": 0.269385,
+    "Low": 0.262832,
+    "Close": 0.265253,
+    "Volume": "1,273,573,229",
+    "Market Cap": "11,485,052,604"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 16, 2019",
+    "Open": 0.261694,
+    "High": 0.265443,
+    "Low": 0.260609,
+    "Close": 0.263886,
+    "Volume": "1,195,333,401",
+    "Market Cap": "11,425,884,645"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 15, 2019",
+    "Open": 0.270463,
+    "High": 0.271049,
+    "Low": 0.259878,
+    "Close": 0.261654,
+    "Volume": "1,548,251,349",
+    "Market Cap": "11,329,241,896"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 14, 2019",
+    "Open": 0.272903,
+    "High": 0.273868,
+    "Low": 0.268069,
+    "Close": 0.270391,
+    "Volume": "1,264,478,184",
+    "Market Cap": "11,707,513,880"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 13, 2019",
+    "Open": 0.272379,
+    "High": 0.275665,
+    "Low": 0.271303,
+    "Close": 0.273036,
+    "Volume": "1,278,922,350",
+    "Market Cap": "11,822,051,383"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 12, 2019",
+    "Open": 0.275179,
+    "High": 0.277042,
+    "Low": 0.270781,
+    "Close": 0.272418,
+    "Volume": "1,404,766,289",
+    "Market Cap": "11,795,294,866"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 11, 2019",
+    "Open": 0.280164,
+    "High": 0.281727,
+    "Low": 0.272008,
+    "Close": 0.275086,
+    "Volume": "1,437,677,669",
+    "Market Cap": "11,910,794,571"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 10, 2019",
+    "Open": 0.280273,
+    "High": 0.283117,
+    "Low": 0.276669,
+    "Close": 0.280204,
+    "Volume": "1,557,437,413",
+    "Market Cap": "12,132,388,502"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 09, 2019",
+    "Open": 0.276863,
+    "High": 0.282471,
+    "Low": 0.276328,
+    "Close": 0.280196,
+    "Volume": "1,449,652,131",
+    "Market Cap": "12,117,941,815"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 08, 2019",
+    "Open": 0.292438,
+    "High": 0.292612,
+    "Low": 0.274005,
+    "Close": 0.276953,
+    "Volume": "2,026,687,432",
+    "Market Cap": "11,977,697,598"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 07, 2019",
+    "Open": 0.310175,
+    "High": 0.313278,
+    "Low": 0.283395,
+    "Close": 0.292431,
+    "Volume": "2,430,065,390",
+    "Market Cap": "12,647,080,586"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 06, 2019",
+    "Open": 0.301103,
+    "High": 0.311605,
+    "Low": 0.298735,
+    "Close": 0.310086,
+    "Volume": "1,790,567,871",
+    "Market Cap": "13,410,631,514"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 05, 2019",
+    "Open": 0.299906,
+    "High": 0.304524,
+    "Low": 0.297917,
+    "Close": 0.301255,
+    "Volume": "1,964,177,330",
+    "Market Cap": "13,028,715,563"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 04, 2019",
+    "Open": 0.291236,
+    "High": 0.299949,
+    "Low": 0.290893,
+    "Close": 0.299937,
+    "Volume": "1,647,597,869",
+    "Market Cap": "12,971,721,432"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 03, 2019",
+    "Open": 0.296272,
+    "High": 0.297173,
+    "Low": 0.288818,
+    "Close": 0.291261,
+    "Volume": "1,381,510,371",
+    "Market Cap": "12,596,463,117"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 02, 2019",
+    "Open": 0.292688,
+    "High": 0.299039,
+    "Low": 0.292539,
+    "Close": 0.296263,
+    "Volume": "1,460,243,469",
+    "Market Cap": "12,812,796,808"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Nov 01, 2019",
+    "Open": 0.296389,
+    "High": 0.296487,
+    "Low": 0.288932,
+    "Close": 0.292642,
+    "Volume": "1,572,251,058",
+    "Market Cap": "12,656,190,134"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 31, 2019",
+    "Open": 0.296527,
+    "High": 0.302379,
+    "Low": 0.290938,
+    "Close": 0.296358,
+    "Volume": "1,666,132,252",
+    "Market Cap": "12,816,900,825"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 30, 2019",
+    "Open": 0.301913,
+    "High": 0.30518,
+    "Low": 0.292403,
+    "Close": 0.296555,
+    "Volume": "1,883,224,296",
+    "Market Cap": "12,825,432,798"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 29, 2019",
+    "Open": 0.295991,
+    "High": 0.307984,
+    "Low": 0.295357,
+    "Close": 0.301956,
+    "Volume": "2,125,813,360",
+    "Market Cap": "13,058,999,924"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 28, 2019",
+    "Open": 0.298143,
+    "High": 0.302837,
+    "Low": 0.293587,
+    "Close": 0.296007,
+    "Volume": "2,061,536,473",
+    "Market Cap": "12,801,729,616"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 27, 2019",
+    "Open": 0.293886,
+    "High": 0.301481,
+    "Low": 0.289935,
+    "Close": 0.2981,
+    "Volume": "2,237,941,946",
+    "Market Cap": "12,892,254,871"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 26, 2019",
+    "Open": 0.298039,
+    "High": 0.31029,
+    "Low": 0.286818,
+    "Close": 0.293699,
+    "Volume": "3,122,465,894",
+    "Market Cap": "12,701,942,701"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 25, 2019",
+    "Open": 0.278607,
+    "High": 0.299947,
+    "Low": 0.27724,
+    "Close": 0.298165,
+    "Volume": "2,486,979,029",
+    "Market Cap": "12,895,056,501"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 24, 2019",
+    "Open": 0.274101,
+    "High": 0.281281,
+    "Low": 0.269274,
+    "Close": 0.278491,
+    "Volume": "1,638,078,551",
+    "Market Cap": "12,042,668,475"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 23, 2019",
+    "Open": 0.291556,
+    "High": 0.292737,
+    "Low": 0.260083,
+    "Close": 0.274143,
+    "Volume": "2,172,985,938",
+    "Market Cap": "11,854,650,118"
+  },
+  {
+    "Currency": "xrp",
+    "Date": "Oct 22, 2019",
+    "Open": 0.293019,
+    "High": 0.301484,
+    "Low": 0.291104,
+    "Close": 0.291607,
+    "Volume": "1,632,212,674",
+    "Market Cap": "12,609,856,226"
+  }
+]
