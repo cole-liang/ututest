@@ -21,7 +21,7 @@ class TableBody extends Component {
     return (
       <tbody className="table-body">
         {data.map((item) => (
-          <tr key={item.Currency + item.id}>
+          <tr key={item.Currency + item.id} className="table-body__row">
             {columns.map((column) => (
               <td
                 key={column.path}
