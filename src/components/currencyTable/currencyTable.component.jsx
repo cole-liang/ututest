@@ -44,6 +44,12 @@ class CurrencyTable extends Component {
           unit: { pos: "end", unit: "%", invalid: "N/A" },
           shouldColor: true,
         },
+        {
+          path: "1m",
+          label: "1m",
+          unit: { pos: "end", unit: "%", invalid: "N/A" },
+          shouldColor: true,
+        },
         // Assume Volume is 24h Volume
         {
           path: "Volume",
@@ -72,11 +78,13 @@ class CurrencyTable extends Component {
 
     // Must be moment(today, "YYYY-MM-DD") since substract() will change the
     // original object
+    const before1mObj = moment(today, "YYYY-MM-DD").subtract(1, "months");
     const before7dObj = moment(today, "YYYY-MM-DD").subtract(7, "days");
     const before1dObj = moment(today, "YYYY-MM-DD").subtract(1, "days");
     let recordToday = null;
     let change7d = null;
     let change24h = null;
+    let change1m = null;
 
     orderedData.forEach((item, index) => {
       let dateObj = moment(item.Date, "YYYY-MM-DD");
@@ -94,6 +102,7 @@ class CurrencyTable extends Component {
               // when ordering.
               "24h": change24h ? change24h : global.NA_VALUE,
               "7d": change7d ? change7d : global.NA_VALUE,
+              "1m": change1m ? change1m : global.NA_VALUE,
             });
           } else {
             result.push({
@@ -103,18 +112,20 @@ class CurrencyTable extends Component {
               "Market Cap": global.NA_VALUE,
               "24h": global.NA_VALUE,
               "7d": global.NA_VALUE,
+              "1m": global.NA_VALUE,
             });
           }
           recordToday = null;
           change24h = null;
           change7d = null;
+          change1m = null;
         }
         lastCoin = item.Currency;
       }
 
-      // If current record is within 7 days from today, store today's record
+      // If current record is within 1 months from today, store today's record
       // and the calculated changed value when matches
-      if (!dateObj.isAfter(todayObj) && !dateObj.isBefore(before7dObj)) {
+      if (!dateObj.isAfter(todayObj) && !dateObj.isBefore(before1mObj)) {
         if (dateObj.isSame(todayObj)) {
           recordToday = item;
         } else if (recordToday && dateObj.isSame(before1dObj)) {
@@ -123,6 +134,9 @@ class CurrencyTable extends Component {
         } else if (recordToday && dateObj.isSame(before7dObj)) {
           change7d = ((recordToday.Close - item.Close) / item.Close) * 100;
           change7d = change7d.toFixed(2);
+        } else if (recordToday && dateObj.isSame(before1mObj)) {
+          change1m = ((recordToday.Close - item.Close) / item.Close) * 100;
+          change1m = change1m.toFixed(2);
         }
       }
 
@@ -139,6 +153,7 @@ class CurrencyTable extends Component {
             ...recordToday,
             "24h": change24h ? change24h : global.NA_VALUE,
             "7d": change7d ? change7d : global.NA_VALUE,
+            "1m": change1m ? change1m : global.NA_VALUE,
           });
         } else {
           result.push({
@@ -148,6 +163,7 @@ class CurrencyTable extends Component {
             "Market Cap": global.NA_VALUE,
             "24h": global.NA_VALUE,
             "7d": global.NA_VALUE,
+            "1m": global.NA_VALUE,
           });
         }
       }
@@ -220,6 +236,10 @@ class CurrencyTable extends Component {
           "7d":
             item["7d"] !== global.NA_VALUE
               ? this.addCommaToNumber(item["7d"])
+              : "N/A",
+          "1m":
+            item["1m"] !== global.NA_VALUE
+              ? this.addCommaToNumber(item["1m"])
               : "N/A",
           Close:
             item["Close"] !== global.NA_VALUE
