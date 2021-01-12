@@ -11,17 +11,15 @@ class TableBody extends Component {
   render() {
     const { data, columns } = this.props;
     return (
-      <React.Fragment>
+      <tbody>
         {data.map((item) => (
-          <tr key={item.Currency + item.Date}>
+          <tr key={item.Currency + item.id}>
             {columns.map((column) => (
-              <td key={column.path || column.key}>
-                {this.renderCell(item, column)}
-              </td>
+              <td key={column.path}>{this.renderCell(item, column)}</td>
             ))}
           </tr>
         ))}
-      </React.Fragment>
+      </tbody>
     );
   }
 }

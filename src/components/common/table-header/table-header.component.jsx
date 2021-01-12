@@ -34,14 +34,16 @@ class TableHeader extends Component {
     const { columns } = this.props;
 
     return (
-      <tr>
-        {columns.map((column) => (
-          <th key={column.path} onClick={() => this.raiseSort(column.path)}>
-            {column.label}
-            {this.renderSortIcon(column)}
-          </th>
-        ))}
-      </tr>
+      <thead>
+        <tr>
+          {columns.map((column) => (
+            <th key={column.path} onClick={() => this.raiseSort(column.path)}>
+              {column.label}
+              {this.renderSortIcon(column)}
+            </th>
+          ))}
+        </tr>
+      </thead>
     );
   }
 }
