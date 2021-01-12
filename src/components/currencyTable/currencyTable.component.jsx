@@ -105,6 +105,7 @@ class CurrencyTable extends Component {
               "7d": global.NA_VALUE,
             });
           }
+          recordToday = null;
           change24h = null;
           change7d = null;
         }
@@ -116,10 +117,10 @@ class CurrencyTable extends Component {
       if (!dateObj.isAfter(todayObj) && !dateObj.isBefore(before7dObj)) {
         if (dateObj.isSame(todayObj)) {
           recordToday = item;
-        } else if (dateObj.isSame(before1dObj)) {
+        } else if (recordToday && dateObj.isSame(before1dObj)) {
           change24h = ((recordToday.Close - item.Close) / item.Close) * 100;
           change24h = change24h.toFixed(2);
-        } else if (dateObj.isSame(before7dObj)) {
+        } else if (recordToday && dateObj.isSame(before7dObj)) {
           change7d = ((recordToday.Close - item.Close) / item.Close) * 100;
           change7d = change7d.toFixed(2);
         }
