@@ -14,8 +14,6 @@ class CurrencyTable extends Component {
     this.state = {
       data: null,
 
-      today: "2019-11-22",
-
       // Initial sort setting
       // "path" is the attribute name in the json data file
       sortColumn: { path: "Market Cap", order: "desc" },
@@ -29,28 +27,33 @@ class CurrencyTable extends Component {
         { path: "id", label: "#" },
         { path: "Currency", label: "Coin" },
         // Assume the price is the closing amount of the day
-        { path: "Close", label: "Price", unit: { pos: "front", unit: "$" } },
+        {
+          path: "Close",
+          label: "Price",
+          unit: { pos: "front", unit: "$", invalid: "N/A" },
+        },
         {
           path: "24h",
           label: "24h",
-          unit: { pos: "end", unit: "%" },
+          unit: { pos: "end", unit: "%", invalid: "N/A" },
           shouldColor: true,
         },
         {
           path: "7d",
           label: "7d",
-          unit: { pos: "end", unit: "%" },
+          unit: { pos: "end", unit: "%", invalid: "N/A" },
           shouldColor: true,
         },
+        // Assume Volume is 24h Volume
         {
           path: "Volume",
           label: "24h Volume",
-          unit: { pos: "front", unit: "$" },
+          unit: { pos: "front", unit: "$", invalid: "N/A" },
         },
         {
           path: "Market Cap",
           label: "Mkt Cap",
-          unit: { pos: "front", unit: "$" },
+          unit: { pos: "front", unit: "$", invalid: "N/A" },
         },
       ],
     };
@@ -114,10 +117,10 @@ class CurrencyTable extends Component {
         if (dateObj.isSame(todayObj)) {
           recordToday = item;
         } else if (dateObj.isSame(before1dObj)) {
-          change24h = (item.Close - recordToday.Close) / item.Close;
+          change24h = ((recordToday.Close - item.Close) / item.Close) * 100;
           change24h = change24h.toFixed(2);
         } else if (dateObj.isSame(before7dObj)) {
-          change7d = (item.Close - recordToday.Close) / item.Close;
+          change7d = ((recordToday.Close - item.Close) / item.Close) * 100;
           change7d = change7d.toFixed(2);
         }
       }
@@ -153,6 +156,8 @@ class CurrencyTable extends Component {
   };
 
   componentDidMount() {
+    const { today } = this.props;
+
     // Parse and remove commas in the numbers of "Market Cap" and "Volume" for
     // ordering, also change the format of the "Date" for ordering date in
     // generateDisplayResult method
@@ -175,7 +180,7 @@ class CurrencyTable extends Component {
       };
     });
 
-    tmpData = this.generateDisplayResult(tmpData, this.state.today);
+    tmpData = this.generateDisplayResult(tmpData, today);
 
     // Sort with the initial value and add id to data. Has to add id in componentDidMount
     // so that id won't change when ordering with other attributes

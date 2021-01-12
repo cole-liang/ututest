@@ -1,2 +1,15 @@
-main {
+@import "../../sass/abstracts/variables";
+
+.content {
+  margin: 6rem 0;
+
+  &__date {
+    text-align: end;
+    margin-bottom: 2rem;
+
+    &-text {
+      font-size: $default-font-size;
+      margin-right: 1.5rem;
+    }
+  }
 }
