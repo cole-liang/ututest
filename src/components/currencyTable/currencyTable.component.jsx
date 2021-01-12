@@ -3,6 +3,7 @@ import Table from "../common/table/table.component";
 import data from "../../resources/data.json";
 import moment from "moment";
 import _ from "lodash";
+
 import "./currencyTable.style.scss";
 import global from "./../../global";
 
@@ -22,15 +23,35 @@ class CurrencyTable extends Component {
       // Define what should be displayed in the table
       // "path" is the attribute name in the json data file
       // "label" is the name for table header
+      // "unit" is the unit for the value (optional)
+      // "shouldColor" indicates whether the font color is determined by value (optional)
       columns: [
         { path: "id", label: "#" },
         { path: "Currency", label: "Coin" },
         // Assume the price is the closing amount of the day
-        { path: "Close", label: "Price" },
-        { path: "24h", label: "24h" },
-        { path: "7d", label: "7d" },
-        { path: "Volume", label: "24h Volume" },
-        { path: "Market Cap", label: "Mkt Cap" },
+        { path: "Close", label: "Price", unit: { pos: "front", unit: "$" } },
+        {
+          path: "24h",
+          label: "24h",
+          unit: { pos: "end", unit: "%" },
+          shouldColor: true,
+        },
+        {
+          path: "7d",
+          label: "7d",
+          unit: { pos: "end", unit: "%" },
+          shouldColor: true,
+        },
+        {
+          path: "Volume",
+          label: "24h Volume",
+          unit: { pos: "front", unit: "$" },
+        },
+        {
+          path: "Market Cap",
+          label: "Mkt Cap",
+          unit: { pos: "front", unit: "$" },
+        },
       ],
     };
   }
@@ -38,9 +59,7 @@ class CurrencyTable extends Component {
   generateDisplayResult = (processData, today) => {
     let result = [];
 
-    // Order the data by Currency and then Date in descending order to gurantee
-    // the record from 7 days ago will be the last one we need to process
-    // for a specific Currency/Coin
+    // Order the data by Currency for better processing data
     let orderedData = _.orderBy(processData, ["Currency"], ["asc"]);
 
     // Store the currency/coin processed last time
@@ -130,18 +149,17 @@ class CurrencyTable extends Component {
       }
     });
 
-    console.log(result);
-
     return result;
   };
 
   componentDidMount() {
-    // parse and remove commas in the numbers of "Market Cap" and "Volume" for
+    // Parse and remove commas in the numbers of "Market Cap" and "Volume" for
     // ordering, also change the format of the "Date" for ordering date in
     // generateDisplayResult method
     let tmpData = data.map((item) => {
       let momentObj = moment(item.Date, "MMM DD, YYYY");
       const date = momentObj.format("YYYY-MM-DD");
+      // Require parsing Close amount since some value are not integer(e.g., bitcoin)
       const closeInt =
         typeof item["Close"] === "string"
           ? parseInt(item["Close"].replace(/,/g, ""))
@@ -150,7 +168,7 @@ class CurrencyTable extends Component {
       const volumeInt = parseInt(item["Volume"].replace(/,/g, ""));
       return {
         ...item,
-        Close: closeInt,
+        Close: closeInt.toFixed(2),
         "Market Cap": mtkcapInt,
         Volume: volumeInt,
         Date: date,
@@ -214,7 +232,7 @@ class CurrencyTable extends Component {
     );
 
     return (
-      <div>
+      <div className="currency-table">
         <Table
           columns={columns}
           data={sortedData}

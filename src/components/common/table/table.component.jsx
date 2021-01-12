@@ -5,7 +5,7 @@ import "./table.style.scss";
 
 const Table = ({ data, columns, onSort, sortColumn }) => {
   return (
-    <table>
+    <table className="table">
       <TableHeader
         columns={columns}
         onSort={onSort}

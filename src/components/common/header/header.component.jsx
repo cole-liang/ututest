@@ -1,9 +1,11 @@
 import React from "react";
+import "./header.style.scss";
+import "../../../sass/base/_utilities.scss";
 
 const Header = () => {
   return (
-    <header>
-      <span>Survey Data Panal</span>
+    <header className="header u-child-center">
+      <span>Crypto Currencies Data</span>
     </header>
   );
 };

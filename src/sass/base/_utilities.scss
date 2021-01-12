@@ -1,6 +1,13 @@
-//Note that utilites classes should be always working, thus adding !important is acceptable
+// Note that utilites classes should be always working
+// So adding !important is acceptable
 .u-text-center {
   text-align: center !important;
+}
+
+.u-child-center {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
 }
 
 .u-margin-bottom-small {

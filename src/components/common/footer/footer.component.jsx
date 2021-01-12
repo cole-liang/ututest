@@ -1,10 +1,14 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faCopyright } from "@fortawesome/free-solid-svg-icons";
+import "./footer.style.scss";
+import "../../../sass/base/_utilities.scss";
 
 const Footer = () => {
   return (
-    <footer>
+    <footer className="footer u-child-center">
       <span>
-        <i className="fa fa-copyright" /> Copyright Cole Liang 2020
+        Copyright <FontAwesomeIcon icon={faCopyright} /> 2020 &nbsp; Cole Liang
       </span>
     </footer>
   );

@@ -1,0 +1,18 @@
+@import "../../../sass/abstracts/variables";
+
+.table-body {
+  &__content {
+    font-size: $default-font-size;
+    text-align: center;
+    border-bottom: 1px solid $color-table-border;
+    padding: 1rem;
+  }
+
+  &__green {
+    color: $color-primary-dark;
+  }
+
+  &__red {
+    color: $color-red;
+  }
+}

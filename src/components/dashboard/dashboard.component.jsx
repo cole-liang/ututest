@@ -1,17 +1,11 @@
-import React, { Component } from "react";
+import React from "react";
 import CurrencyTable from "../currencyTable/currencyTable.component";
 import "./dashboard.style.scss";
-import moment from "moment";
+import "../../sass/base/_utilities.scss";
 
 const Dashboard = () => {
-  let date = "Nov 06, 2019";
-  let momentObj = moment(date, "MMM DD, YYYY");
-  let date2 = momentObj.format("YYYY-MM-DD");
-
   return (
-    <main>
-      <h1>{date}</h1>
-      <h2>{date2}</h2>
+    <main className="u-child-center">
       <CurrencyTable></CurrencyTable>
     </main>
   );

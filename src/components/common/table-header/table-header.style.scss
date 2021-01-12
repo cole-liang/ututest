@@ -1,0 +1,19 @@
+@import "../../../sass/abstracts/variables";
+
+.table-header {
+  &__content {
+    font-size: $default-font-size;
+    border-top: 1px solid $color-table-border;
+    border-bottom: 3px solid darken($color-table-border, 0.9);
+    padding: 0.6rem 1rem 0.2rem 0.5rem;
+
+    &:hover {
+      background-color: $color-grey-light;
+      cursor: pointer;
+    }
+  }
+
+  &__icon {
+    margin-left: 1rem;
+  }
+}

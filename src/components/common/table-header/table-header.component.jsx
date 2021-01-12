@@ -1,14 +1,9 @@
 import React, { Component } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSortUp, faSortDown } from "@fortawesome/free-solid-svg-icons";
-import "./tabel-header.style.scss";
+import "./table-header.style.scss";
 
 class TableHeader extends Component {
-  constructor(props) {
-    super(props);
-    // this.state = {  }
-  }
-
   raiseSort(path) {
     let column = { ...this.props.sortColumn };
     if (column.path === path)
@@ -24,9 +19,9 @@ class TableHeader extends Component {
     const { sortColumn } = this.props;
     if (column.path !== sortColumn.path || !column.path) return null;
     return sortColumn.order === "asc" ? (
-      <FontAwesomeIcon icon={faSortUp} />
+      <FontAwesomeIcon icon={faSortUp} className="table-header__icon" />
     ) : (
-      <FontAwesomeIcon icon={faSortDown} />
+      <FontAwesomeIcon icon={faSortDown} className="table-header__icon" />
     );
   };
 
@@ -34,11 +29,15 @@ class TableHeader extends Component {
     const { columns } = this.props;
 
     return (
-      <thead>
+      <thead className="table-header">
         <tr>
           {columns.map((column) => (
-            <th key={column.path} onClick={() => this.raiseSort(column.path)}>
-              {column.label}
+            <th
+              className="table-header__content"
+              key={column.path}
+              onClick={() => this.raiseSort(column.path)}
+            >
+              <span className="table-header__label">{column.label}</span>
               {this.renderSortIcon(column)}
             </th>
           ))}
