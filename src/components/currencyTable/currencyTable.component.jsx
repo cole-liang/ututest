@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Table from "../common/table/table.component";
+import Spinner from "./../common/spinner/spinner.component";
 import moment from "moment";
 import _ from "lodash";
 
@@ -14,6 +15,7 @@ class CurrencyTable extends Component {
 
     this.state = {
       data: null,
+      isLoading: true,
 
       // Initial sort setting
       // "path" is the attribute name in the json data file
@@ -177,6 +179,8 @@ class CurrencyTable extends Component {
     // ASC order on the server side
     const cryptos = await cryptosAPI.getCryptos();
 
+    this.setState({ isLoading: false });
+
     // Parse and remove commas in the numbers of "Market Cap" and "Volume" for
     // ordering, also change the format of the "Date" for ordering date in
     // generateDisplayResult method
@@ -223,7 +227,7 @@ class CurrencyTable extends Component {
   };
 
   render() {
-    const { data, columns, sortColumn } = this.state;
+    const { data, columns, sortColumn, isLoading } = this.state;
 
     // Sort when clicking table header, add back the commas for number display,
     // and change from global.NA_VALUE to "N/A"
@@ -267,6 +271,7 @@ class CurrencyTable extends Component {
           sortColumn={sortColumn}
           onSort={this.handleSort}
         ></Table>
+        {isLoading ? <Spinner></Spinner> : ""}
       </div>
     );
   }

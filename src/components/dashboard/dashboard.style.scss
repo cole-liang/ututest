@@ -24,3 +24,9 @@
 .react-datepicker__navigation:focus {
   outline: none;
 }
+
+.react-datepicker__input-container input {
+  font-size: $default-font-size;
+  padding: 0.5rem 1rem;
+  width: 14rem;
+}

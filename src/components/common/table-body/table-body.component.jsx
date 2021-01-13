@@ -23,6 +23,9 @@ class TableBody extends Component {
         {data.map((item) => (
           <tr key={item.Currency + item.id} className="table-body__row">
             {columns.map((column) => {
+              // Use lodash to get data here because sometimes data may be
+              // deep inside the item. For example, we can get c by
+              // _.get(item, "a.b.c"), which means item.a.b.c
               const value = _.get(item, column.path);
               return (
                 <td
@@ -32,6 +35,7 @@ class TableBody extends Component {
                     (column.shouldColor ? this.addColorClass(item, column) : "")
                   }
                 >
+                  {/* Render unit if required */}
                   {column.unit &&
                   value !== column.unit.invalid &&
                   column.unit.pos === "front"
