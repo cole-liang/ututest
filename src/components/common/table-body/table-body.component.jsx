@@ -22,23 +22,30 @@ class TableBody extends Component {
       <tbody className="table-body">
         {data.map((item) => (
           <tr key={item.Currency + item.id} className="table-body__row">
-            {columns.map((column) => (
-              <td
-                key={column.path}
-                className={
-                  "table-body__content " +
-                  (column.shouldColor ? this.addColorClass(item, column) : "")
-                }
-              >
-                {column.unit && column.unit.pos === "front"
-                  ? column.unit.unit
-                  : ""}
-                {_.get(item, column.path)}
-                {column.unit && column.unit.pos === "end"
-                  ? column.unit.unit
-                  : ""}
-              </td>
-            ))}
+            {columns.map((column) => {
+              const value = _.get(item, column.path);
+              return (
+                <td
+                  key={column.path}
+                  className={
+                    "table-body__content " +
+                    (column.shouldColor ? this.addColorClass(item, column) : "")
+                  }
+                >
+                  {column.unit &&
+                  value !== column.unit.invalid &&
+                  column.unit.pos === "front"
+                    ? column.unit.unit
+                    : ""}
+                  {value}
+                  {column.unit &&
+                  value !== column.unit.invalid &&
+                  column.unit.pos === "end"
+                    ? column.unit.unit
+                    : ""}
+                </td>
+              );
+            })}
           </tr>
         ))}
       </tbody>
