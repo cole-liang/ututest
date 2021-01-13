@@ -76,6 +76,13 @@ class CurrencyTable extends Component {
 
     let todayObj = moment(today, "YYYY-MM-DD");
 
+    // Should also order Date since we need to find "today" first
+    const orderedData = _.orderBy(
+      processData,
+      ["Currency", "Date"],
+      ["asc", "desc"]
+    );
+
     // Must be moment(today, "YYYY-MM-DD") since substract() will change the
     // original object
     const before1mObj = moment(today, "YYYY-MM-DD").subtract(1, "months");
@@ -86,7 +93,7 @@ class CurrencyTable extends Component {
     let change24h = null;
     let change1m = null;
 
-    processData.forEach((item, index) => {
+    orderedData.forEach((item, index) => {
       let dateObj = moment(item.Date, "YYYY-MM-DD");
 
       // Result record should be added when going to a new currency
@@ -125,6 +132,7 @@ class CurrencyTable extends Component {
 
       // If current record is within 1 months from today, store today's record
       // and the calculated changed value when matches
+      // In this part "today" is required to be found firstly, otherwise won't work
       if (!dateObj.isAfter(todayObj) && !dateObj.isBefore(before1mObj)) {
         if (dateObj.isSame(todayObj)) {
           recordToday = item;
@@ -143,7 +151,7 @@ class CurrencyTable extends Component {
       // Result record should be added when it comes to the final record and
       // at the same time no record found in result array for that currency
       if (
-        index === processData.length - 1 &&
+        index === orderedData.length - 1 &&
         !result.find((item) => {
           return item.Currency === lastCoin;
         })
@@ -190,10 +198,10 @@ class CurrencyTable extends Component {
       // Require parsing Close amount since some value are not integer(e.g., bitcoin)
       const closeInt =
         typeof item["Close"] === "string"
-          ? parseInt(item["Close"].replace(/,/g, ""))
+          ? parseFloat(item["Close"].replace(/,/g, ""))
           : item["Close"];
-      const mtkcapInt = parseInt(item["Market Cap"].replace(/,/g, ""));
-      const volumeInt = parseInt(item["Volume"].replace(/,/g, ""));
+      const mtkcapInt = parseFloat(item["Market Cap"].replace(/,/g, ""));
+      const volumeInt = parseFloat(item["Volume"].replace(/,/g, ""));
       return {
         ...item,
         Close: closeInt.toFixed(2),
