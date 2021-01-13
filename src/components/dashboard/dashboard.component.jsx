@@ -1,11 +1,10 @@
 import React, { Component } from "react";
 import CurrencyTable from "../currencyTable/currencyTable.component";
-// import "react-dates/initialize";
-// import "react-dates/lib/css/_datepicker.css";
-// import { SingleDatePicker } from "react-dates";
-import moment from "moment";
+import DatePicker from "react-datepicker";
+import { format, parse, isValid } from "date-fns";
 
 import "./dashboard.style.scss";
+import "react-datepicker/dist/react-datepicker.css";
 import "../../sass/base/_utilities.scss";
 
 class Dashboard extends Component {
@@ -14,34 +13,31 @@ class Dashboard extends Component {
     this.state = {
       datepickerFocused: false,
 
-      today: "2019-11-22",
+      today: parse("2019-11-22", "yyyy-MM-dd", new Date()),
     };
   }
 
-  handleDate = (date) => this.setState({ today: date.format("YYYY-MM-DD") });
+  handleDate = (today) => this.setState({ today });
 
   render() {
-    const { today, datepickerFocused } = this.state;
+    const { today } = this.state;
 
     return (
       <main className="container u-child-center">
         <div className="content">
           <div className="content__date">
-            <span className="content__date-text">Current Date: </span>
-            {/* <SingleDatePicker
-              date={moment(today, "YYYY-MM-DD")}
-              onDateChange={(date) => this.handleDate(date)}
-              focused={datepickerFocused}
-              onFocusChange={({ focused }) =>
-                this.setState({ datepickerFocused: focused })
-              }
-              numberOfMonths={1}
-              isOutsideRange={() => false}
-              id="datepicker"
-            /> */}
+            <span className="content__date-text">Current Date:</span>
+            <DatePicker
+              dateFormat="yyyy-MM-dd"
+              selected={today}
+              onChange={(date) => this.handleDate(date)}
+            />
           </div>
 
-          <CurrencyTable key={today} today={today}></CurrencyTable>
+          <CurrencyTable
+            key={today}
+            today={format(today, "yyyy-MM-dd")}
+          ></CurrencyTable>
         </div>
       </main>
     );

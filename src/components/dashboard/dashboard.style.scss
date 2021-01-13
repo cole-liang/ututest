@@ -15,3 +15,12 @@
     }
   }
 }
+
+.react-datepicker {
+  height: 15.5rem;
+  transform: scale(1.4) translateY(2.4rem);
+}
+
+.react-datepicker__navigation:focus {
+  outline: none;
+}
