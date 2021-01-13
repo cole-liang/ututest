@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import CurrencyTable from "../currencyTable/currencyTable.component";
 import DatePicker from "react-datepicker";
-import { format, parse, isValid } from "date-fns";
+import { format, parse } from "date-fns";
 
 import "./dashboard.style.scss";
 import "react-datepicker/dist/react-datepicker.css";
@@ -16,6 +16,8 @@ class Dashboard extends Component {
       today: parse("2019-11-22", "yyyy-MM-dd", new Date()),
     };
   }
+
+  async componentDidMount() {}
 
   handleDate = (today) => this.setState({ today });
 

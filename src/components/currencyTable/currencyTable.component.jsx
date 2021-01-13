@@ -1,8 +1,9 @@
 import React, { Component } from "react";
 import Table from "../common/table/table.component";
-import data from "../../resources/data.json";
 import moment from "moment";
 import _ from "lodash";
+
+import * as cryptosAPI from "../../services/cryptoService";
 
 import "./currencyTable.style.scss";
 import global from "./../../global";
@@ -68,9 +69,6 @@ class CurrencyTable extends Component {
   generateDisplayResult = (processData, today) => {
     let result = [];
 
-    // Order the data by Currency for better processing data
-    let orderedData = _.orderBy(processData, ["Currency"], ["asc"]);
-
     // Store the currency/coin processed last time
     let lastCoin = null;
 
@@ -86,7 +84,7 @@ class CurrencyTable extends Component {
     let change24h = null;
     let change1m = null;
 
-    orderedData.forEach((item, index) => {
+    processData.forEach((item, index) => {
       let dateObj = moment(item.Date, "YYYY-MM-DD");
 
       // Result record should be added when going to a new currency
@@ -143,7 +141,7 @@ class CurrencyTable extends Component {
       // Result record should be added when it comes to the final record and
       // at the same time no record found in result array for that currency
       if (
-        index === orderedData.length - 1 &&
+        index === processData.length - 1 &&
         !result.find((item) => {
           return item.Currency === lastCoin;
         })
@@ -172,13 +170,17 @@ class CurrencyTable extends Component {
     return result;
   };
 
-  componentDidMount() {
+  async componentDidMount() {
     const { today } = this.props;
+
+    // Retrieve the data from API, which has already been ordered by Currency in
+    // ASC order on the server side
+    const cryptos = await cryptosAPI.getCryptos();
 
     // Parse and remove commas in the numbers of "Market Cap" and "Volume" for
     // ordering, also change the format of the "Date" for ordering date in
     // generateDisplayResult method
-    let tmpData = data.map((item) => {
+    let tmpData = cryptos.map((item) => {
       let momentObj = moment(item.Date, "MMM DD, YYYY");
       const date = momentObj.format("YYYY-MM-DD");
       // Require parsing Close amount since some value are not integer(e.g., bitcoin)
